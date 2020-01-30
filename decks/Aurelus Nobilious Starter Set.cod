@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="side">
+        <card number="1" name="BKC16"/>
+        <card number="1" name="BKC18"/>
+        <card number="1" name="BKC25"/>
+        <card number="1" name="BKC37"/>
+        <card number="1" name="BKC42"/>
+        <card number="1" name="BKC6"/>
+        <card number="1" name="Aurelus Nobilious Ultra"/>
+        <card number="1" name="Haos Trhyno"/>
+        <card number="1" name="Pyrus Mantonoid"/>
+    </zone>
+    <zone name="main">
+        <card number="1" name="Blinding Light"/>
+        <card number="1" name="Divine Inspiration"/>
+        <card number="2" name="Energy Draw"/>
+        <card number="2" name="Shield of the Faithful"/>
+        <card number="2" name="Holy Flame"/>
+        <card number="2" name="Haos Blessing"/>
+        <card number="2" name="Twisting Inferno"/>
+        <card number="2" name="Quickfire"/>
+        <card number="2" name="Pyrus Heat Shield"/>
+        <card number="2" name="Anger"/>
+        <card number="2" name="Blaze"/>
+        <card number="1" name="Dual Strike"/>
+        <card number="2" name="Pyrus Hyper Mantonoid"/>
+        <card number="2" name="Emily"/>
+        <card number="2" name="Jenkins"/>
+        <card number="1" name="Dan Kouzo (BR)"/>
+        <card number="2" name="Strata (BR)"/>
+        <card number="2" name="Constrictor"/>
+        <card number="2" name="Trick Trap"/>
+        <card number="2" name="Dazzle"/>
+        <card number="2" name="Confuse"/>
+        <card number="2" name="Ash Cloud"/>
+    </zone>
+</cockatrice_deck>
