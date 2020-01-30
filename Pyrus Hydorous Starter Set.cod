@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="side">
+        <card number="1" name="BKC18"/>
+        <card number="1" name="BKC19"/>
+        <card number="1" name="BKC2"/>
+        <card number="1" name="BKC35"/>
+        <card number="1" name="BKC39"/>
+        <card number="1" name="BKC46"/>
+        <card number="1" name="Aquos Fangzor"/>
+        <card number="1" name="Haos Nillious"/>
+        <card number="1" name="Pyrus Hydorous Ultra"/>
+    </zone>
+    <zone name="main">
+        <card number="1" name="Ebb"/>
+        <card number="2" name="Greater Water Boost"/>
+        <card number="2" name="Hurricane Slash"/>
+        <card number="2" name="Tides"/>
+        <card number="2" name="Inspire"/>
+        <card number="2" name="Liquid Strike"/>
+        <card number="1" name="Mind Flood"/>
+        <card number="2" name="Bone Defense"/>
+        <card number="2" name="Fireball"/>
+        <card number="2" name="Fire Boost"/>
+        <card number="2" name="Power Ritual"/>
+        <card number="2" name="Sifting Ashes"/>
+        <card number="2" name="Talon Slash"/>
+        <card number="2" name="Counter Aggression"/>
+        <card number="2" name="Counter Outsiders"/>
+        <card number="2" name="Light as a Feather"/>
+        <card number="2" name="Block Outsiders"/>
+        <card number="2" name="Spark"/>
+        <card number="1" name="Col. Armstrong Tripp"/>
+        <card number="1" name="Aquos Hyper Fangzor"/>
+        <card number="2" name="Haos Hyper Nillious"/>
+        <card number="2" name="Pyrus Hyper Hydorous Ultra"/>
+    </zone>
+</cockatrice_deck>
