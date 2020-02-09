@@ -10,4 +10,6 @@ After getting it, it'll probably download a database of Magic the Gathering card
 After that you can close the program and go to the root folder and copy over the files I've included, restart Cockatrice and enable the new sets to start playing Bakugan.
 If you don't intend on playing Magic the Gathering, you can also disable all Magic sets in Manage Sets, unchecking all, and then rechecking the Bakugan sets.
 
+**Important**: Unfortunately some cards seem to share names with Magic cards and this can cause conflicting issues where some cards will not show up or will be replaced with the Magic card. The only suggestion I can offer in this case is to deleted cards.xml from the root folder and rename Bakugan TCG.xml to cards.xml and place it in the root folder instead of the customsets folder.
+
 Will update this later with more info, and to make this cleaner.
