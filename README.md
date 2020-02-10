@@ -18,5 +18,6 @@ After downloading Cockatrice, follow these steps to enabling Bakugan Pro:
   1. Go to Cockatrice -> Settings -> Appearance, and you can change the current theme to Bakugan TCG. This doesn't really do anything, but it looks nicer in my opinion.
   2. When building a deck, place Character Cards and BakuCores in the Sideboard. In a game, you can quickly open the Sideboard with ctrl+F3.
   3. Hold the Shift key when moving a card onto the board to place it facedown.
+  4. You can use the Deck Editor's Filters to help sort through or narrow down cards. For example, "And, Color, Ventus" to display only Ventus cards, or "And Not, Type, Character" to display everything except Character Cards. You can add multiple Filters to narrow it down further. "And Type Character + And Color Haos" will only display Haos Character Cards. These filters can also be used to search card text, for example "And Text Sacrifice" will show only cards that have "Sacrifice" in its ability text.
 
 Will update this later with more information as needed.
