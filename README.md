@@ -1,6 +1,7 @@
 # Bakugan Pro Plugin for Cockatrice
 
 Thanks for taking an interest in this little hobby project. Updates may be slow, so be warned. I'm only one girl working on this all alone, and it took several entire days to even get it where it is now.
+
 **Disclaimer** - I don't own Bakugan, in any capacity. This was constructed via publicly available information and content and is just made to be a non-profit tool for deck building and testing.
 
 **This is intended to be used with [Cockatrice](https://cockatrice.github.io/):**
