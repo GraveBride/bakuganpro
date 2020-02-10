@@ -5,7 +5,7 @@ Thanks for taking an interest in this little hobby project. Updates may be slow,
 **Disclaimer** - I don't own Bakugan, in any capacity. This was constructed via publicly available information and content and is just made to be a non-profit tool for deck building and testing.
 
 **This is intended to be used with [Cockatrice](https://cockatrice.github.io/):**
-After getting it, it'll probably download a database of Magic the Gathering cards. (Magic being the game this program was made for.)
+
 After downloading Cockatrice, follow these steps to enabling Bakugan Pro:
   1. Open Cockatrice, it will download a database of MtG cards, hit OK and let it do its thing. This may take a bit.
   2. Restart the program. Open Card Database -> Manage Sets. Disable all sets, and then place a check mark to enable the most recent set and hit Ok.
