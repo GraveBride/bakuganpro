@@ -1,15 +1,22 @@
 # Bakugan Pro Plugin for Cockatrice
 
-Thanks for taking an interest in this little hobby project. This is only worked on by one girl so updates may be slow, sorry.
-If you find any issues, feel free to contact me on Discord and I'll get around to fixing it ASAP.
-
-Also, a disclaimer thing! I don't own Bakugan, in any capacity. This was constructed via publicly available information and content and is just made to be a non-profit tool for deck building and testing.
+Thanks for taking an interest in this little hobby project. Updates may be slow, so be warned. I'm only one girl working on this all alone, and it took several entire days to even get it where it is now.
+**Disclaimer** - I don't own Bakugan, in any capacity. This was constructed via publicly available information and content and is just made to be a non-profit tool for deck building and testing.
 
 **This is intended to be used with [Cockatrice](https://cockatrice.github.io/):**
 After getting it, it'll probably download a database of Magic the Gathering cards. (Magic being the game this program was made for.)
-After that you can close the program and go to the root folder and copy over the files I've included, restart Cockatrice and enable the new sets to start playing Bakugan.
-If you don't intend on playing Magic the Gathering, you can also disable all Magic sets in Manage Sets, unchecking all, and then rechecking the Bakugan sets.
+After downloading Cockatrice, follow these steps to enabling Bakugan Pro:
+  1. Open Cockatrice, it will download a database of MtG cards, hit OK and let it do its thing. This may take a bit.
+  2. Restart the program. Open Card Database -> Manage Sets. Disable all sets, and then place a check mark to enable the most recent set and hit Ok.
+  3. Go to Card Database -> Open Custom Sets Folder. Move one folder up into the Cockatrice root folder, close Cockatrice and merge the folders from the Bakugan Pro plugin here.
+  4. Open Cockatrice once more. It will detect the new sets and ask if you wish to enable them, click yes. You can then go back into Manage Sets and disable the set you earlier enabled. At this point, Cockatrice should now only display Bakugan Pro cards.
+  5. This is an optional step, but if you wish to play MtG as well, you can go into Manage Sets and enable all sets. However, if you have no intention of playing MtG via Cockatrice, I suggest you open the root Cockatrice folder, rename "Bakugan TCG.xml" to "cards.xml", move it to the root folder and click to replace the old xml when asked.
 
-**Important**: Unfortunately some cards seem to share names with Magic cards and this can cause conflicting issues where some cards will not show up or will be replaced with the Magic card. The only suggestion I can offer in this case is to deleted cards.xml from the root folder and rename Bakugan TCG.xml to cards.xml and place it in the root folder instead of the customsets folder.
+**Notice** - Unfortunately some cards seem to share names with MtG cards and this can cause conflicting issues where some cards will not show up or will be replaced with the MtG card if you choose not to replace the cards.xml database. My best suggestion is to, of course, replace the cards.xml file, but if you don't want to, the only other way to fix this is to edit the Bakugan TCG.xml with a program such as Notepad++, ctrl+F and search the card name, and add an indicator at the end of its set to differentiate it.
 
-Will update this later with more info, and to make this cleaner.
+**Tips and Stuff**
+  1. Go to Cockatrice -> Settings -> Appearance, and you can change the current theme to Bakugan TCG. This doesn't really do anything, but it looks nicer in my opinion.
+  2. When building a deck, place Character Cards and BakuCores in the Sideboard. In a game, you can quickly open the Sideboard with ctrl+F3.
+  3. Hold the Shift key when moving a card onto the board to place it facedown.
+
+Will update this later with more information as needed.
