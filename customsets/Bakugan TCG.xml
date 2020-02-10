@@ -5380,7 +5380,7 @@ If one of your Bakugan is holding [Shield], draw a card.</text>
 			<cipt>1</cipt>
 		</card>
 		<card>
-			<name>Freeze (BR)</name>
+			<name>Freeze</name>
 			<set picURL="">BR</set>
 			<color>Aquos</color>
 			<manacost>0</manacost>
