@@ -31,6 +31,12 @@
 			<settype>Expansion</settype>
 			<releasedate>2019-09-30</releasedate>
 		</set>
+		<set>
+			<name>AV</name>
+			<longname>Armored Elite</longname>
+			<settype>Core</settype>
+			<releasedate>2020-01-15</releasedate>
+		</set>
 	</sets>
 	<cards>
 		<!-- BB -->
@@ -10078,6 +10084,2582 @@ If you control Magnus, +20[DamageRating].</text>
 			<loyalty>MagicShield/Shield</loyalty>
 			<tablerow>2</tablerow>
 			<text>[Underdog] When this opens, if it has lower [B-Power] than the opposing Bakugan, the opposing Bakugan gets -2[DamageRating].</text>
+		</card>
+		<!-- AV -->
+		<card>
+			<name>Aquokenisis</name>
+			<set picURL="">AV</set>
+			<color>Aquos</color>
+			<manacost>1</manacost>
+			<cmc>1</cmc>
+			<type>Action</type> 
+			<tablerow>1</tablerow>
+			<text>+2[B-Power]
+
+[Sync] You may reveal a card in your hand that costs 1[Energy] to Reroll your Bakugan.</text>
+		</card>
+		<card>
+			<name>Dripping Poison</name>
+			<set picURL="https://bakugan.wiki/images/3/37/Dripping_Poison_ENG_2_AR_AV.png">AV</set>
+			<color>Aquos</color>
+			<manacost>6</manacost>
+			<cmc>6</cmc>
+			<type>Action</type> 
+			<tablerow>1</tablerow>
+			<text>+600[B-Power]
+
+Negate an Action card.</text>
+		</card>
+		<card>
+			<name>Watery Deflection</name>
+			<set picURL="https://bakugan.wiki/images/0/0f/Watery_Deflection_ENG_3_RA_AV.png">AV</set>
+			<color>Aquos</color>
+			<manacost>2</manacost>
+			<cmc>2</cmc>
+			<type>Action</type> 
+			<tablerow>1</tablerow>
+			<text>You can only play this before rolling.
+
+This turn, your Bakugan gets, "[Victor] Copy the next Action card you play this turn."</text>
+		</card>
+		<card>
+			<name>Aquos Crest</name>
+			<set picURL="https://bakugan.wiki/images/3/32/Aquos_Crest_ENG_4_SR_AV.png">AV</set>
+			<color>Aquos</color>
+			<manacost>4</manacost>
+			<cmc>4</cmc>
+			<type>Action</type> 
+			<tablerow>1</tablerow>
+			<text>+4[DamageRating]
+
+[Boost] If you have seven or more Energy cards in play, +12[DamageRating] instead.</text>
+		</card>
+		<card>
+			<name>Aquos Bubble</name>
+			<set picURL="https://bakugan.wiki/images/a/ac/Aquos_Bubble_ENG_5_RA_AV.png">AV</set>
+			<color>Aquos</color>
+			<manacost>4</manacost>
+			<cmc>4</cmc>
+			<type>Action</type> 
+			<tablerow>1</tablerow>
+			<text>+500[B-Power]
+
+If all enemy Bakugan are the same faction, +1500[B-Power] instead.</text>
+		</card>
+		<card>
+			<name>Carapace Spin</name>
+			<set picURL="https://bakugan.wiki/images/f/f1/Carapace_Spin_ENG_6_CO_AV.png">AV</set>
+			<color>Aquos</color>
+			<manacost>1</manacost>
+			<cmc>1</cmc>
+			<type>Action</type> 
+			<tablerow>1</tablerow>
+			<text>+100[B-Power]
+
+[Draw] 1</text>
+		</card>
+		<card>
+			<name>Ice Barrage</name>
+			<set picURL="https://bakugan.wiki/images/3/31/Ice_Barrage_ENG_7_CO_AV.png">AV</set>
+			<color>Aquos</color>
+			<manacost>3</manacost>
+			<cmc>3</cmc>
+			<type>Action</type> 
+			<tablerow>1</tablerow>
+			<text>+5[FrostStrike]</text>
+		</card>
+		<card>
+			<name>Burrowing Blow</name>
+			<set picURL="https://bakugan.wiki/images/b/b1/Burrowing_Blow_ENG_8_CO_AV.png">AV</set>
+			<color>Aquos</color>
+			<manacost>5</manacost>
+			<cmc>5</cmc>
+			<type>Action</type> 
+			<tablerow>1</tablerow>
+			<text>+1200[B-Power]</text>
+		</card>
+		<card>
+			<name>Bakucrusher</name>
+			<set picURL="https://bakugan.wiki/images/e/e2/Bakucrusher_ENG_9_CO_AV.png">AV</set>
+			<color>Darkus</color>
+			<manacost>3</manacost>
+			<cmc>3</cmc>
+			<type>Action</type> 
+			<tablerow>1</tablerow>
+			<text>+300[B-Power]
+
++3[DamageRating]</text>
+		</card>
+		<card>
+			<name>Maxreact</name>
+			<set picURL="https://bakugan.wiki/images/4/4b/Maxreact_ENG_10_CO_AV.png">AV</set>
+			<color>Darkus</color>
+			<manacost>2</manacost>
+			<cmc>2</cmc>
+			<type>Action</type> 
+			<tablerow>1</tablerow>
+			<text>+2[DamageRating] and +[ShadowStrike]
+
+[Sync] You may reveal a card in your hand that costs 2[Energy] for +5[DamageRating] instead.</text>
+		</card>
+		<card>
+			<name>Shake and Break</name>
+			<set picURL="">AV</set>
+			<color>Darkus</color>
+			<manacost>5</manacost>
+			<cmc>5</cmc>
+			<type>Action</type> 
+			<tablerow>1</tablerow>
+			<text>[Rapid Fire] The second Rapid Fire card you play this turn is free.
+
+Destroy a Hero card.</text>
+		</card>
+		<card>
+			<name>Darkuslice</name>
+			<set picURL="https://bakugan.wiki/images/5/54/Darkuslice_ENG_12_CO_AV.png">AV</set>
+			<color>Darkus</color>
+			<manacost>1</manacost>
+			<cmc>1</cmc>
+			<type>Action</type> 
+			<tablerow>1</tablerow>
+			<text>+200[B-Power]</text>
+		</card>
+		<card>
+			<name>Shadow Ambush</name>
+			<set picURL="https://bakugan.wiki/images/d/d8/Shadow_Ambush_ENG_13_AR_AV.png">AV</set>
+			<color>Darkus</color>
+			<manacost>3</manacost>
+			<cmc>3</cmc>
+			<type>Action</type> 
+			<tablerow>1</tablerow>
+			<text>+5[DamageRating]
+
+If another card causes you to reveal this card from your hand, give a Bakugan +2[DamageRating].</text>
+		</card>
+		<card>
+			<name>Vice Cutter</name>
+			<set picURL="https://bakugan.wiki/images/6/65/Vice_Cutter_ENG_14_RA_AV.png">AV</set>
+			<color>Darkus</color>
+			<manacost>4</manacost>
+			<cmc>4</cmc>
+			<type>Action</type> 
+			<tablerow>1</tablerow>
+			<text>+500[B-Power]</text>
+		</card>
+		<card>
+			<name>Razor Tusk</name>
+			<set picURL="https://bakugan.wiki/images/7/72/Razor_Tusk_ENG_15_RA_AV.png">AV</set>
+			<color>Darkus</color>
+			<manacost>2</manacost>
+			<cmc>2</cmc>
+			<type>Action</type> 
+			<tablerow>1</tablerow>
+			<text>You can only play this before rolling.
+
+This turn, your Bakugan gets, "[Victor] Choose a player to discard two cards."</text>
+		</card>
+		<card>
+			<name>Darkustorm</name>
+			<set picURL="https://bakugan.wiki/images/0/0a/Darkustorm_ENG_16_CO_AV.png">AV</set>
+			<color>Darkus</color>
+			<manacost>5</manacost>
+			<cmc>5</cmc>
+			<type>Action</type> 
+			<tablerow>1</tablerow>
+			<text>+11[DamageRating]</text>
+		</card>
+		<card>
+			<name>Sting Lazer</name>
+			<set picURL="https://bakugan.wiki/images/7/76/Sting_Lazer_ENG_17_CO_AV.png">AV</set>
+			<color>Haos</color>
+			<manacost>5</manacost>
+			<cmc>5</cmc>
+			<type>Action</type> 
+			<tablerow>1</tablerow>
+			<text>+5[[B-Power]
+
+[Draw] 1</text>
+		</card>
+		<card>
+			<name>Prism Blast</name>
+			<set picURL="">AV</set>
+			<color>Haos</color>
+			<manacost>2</manacost>
+			<cmc>2</cmc>
+			<type>Action</type> 
+			<tablerow>1</tablerow>
+			<text>+300[B-Power]
+
+[Trifecta] If your Bakugan have three or more BakuCores attached to them, +700[B-Power] instead.</text>
+		</card>
+		<card>
+			<name>Wing Arrow</name>
+			<set picURL="https://bakugan.wiki/images/e/e0/Wing_Arrow_ENG_19_CO_AV.png">AV</set>
+			<color>Haos</color>
+			<manacost>3</manacost>
+			<cmc>3</cmc>
+			<type>Action</type> 
+			<tablerow>1</tablerow>
+			<text>+5[DamageRating]</text>
+		</card>
+		<card>
+			<name>Haos Control</name>
+			<set picURL="https://bakugan.wiki/images/9/91/Haos_Control_ENG_20_RA_AV_HEX.png">AV</set>
+			<color>Haos</color>
+			<manacost>1</manacost>
+			<cmc>1</cmc>
+			<type>Action</type> 
+			<tablerow>1</tablerow>
+			<text>+3[DamageRating]
+
+[Empower] You may pay an additional 3[Energy] for +3[FrostStrike].</text>
+		</card>
+		<card>
+			<name>Honey Trap</name>
+			<set picURL="">AV</set>
+			<color>Haos</color>
+			<manacost>1</manacost>
+			<cmc>1</cmc>
+			<type>Action</type> 
+			<tablerow>1</tablerow>
+			<text>[Draw] 1
+
+Your Evo cards and Hero cards can't be destroyed this turn.</text>
+		</card>
+		<card>
+			<name>Holy Plasma</name>
+			<set picURL="https://bakugan.wiki/images/0/00/Holy_Plasma_ENG_22_SR_AV_HEX.png">AV</set>
+			<color>Haos</color>
+			<manacost>4</manacost>
+			<cmc>4</cmc>
+			<type>Action</type> 
+			<tablerow>1</tablerow>
+			<text>[Draw] 2
+
++100[B-Power] for each card in your hand.</text>
+		</card>
+		<card>
+			<name>Haos Deflection</name>
+			<set picURL="https://bakugan.wiki/images/3/35/Haos_Deflection_ENG_23_RA_AV.png">AV</set>
+			<color>Haos</color>
+			<manacost>2</manacost>
+			<cmc>2</cmc>
+			<type>Action</type> 
+			<tablerow>1</tablerow>
+			<text>You can only play this before rolling.
+
+This turn, your Bakugan gets, "[Victor][Draw] 3."</text>
+		</card>
+		<card>
+			<name>Haocrescents</name>
+			<set picURL="https://bakugan.wiki/images/b/b0/Haocrescents_ENG_24_CO_AV.png">AV</set>
+			<color>Haos</color>
+			<manacost>1</manacost>
+			<cmc>1</cmc>
+			<type>Action</type> 
+			<tablerow>1</tablerow>
+			<text>+300[B-Power]</text>
+		</card>
+		<card>
+			<name>Pyruscorch</name>
+			<set picURL="">AV</set>
+			<color>Pyrus</color>
+			<manacost>1</manacost>
+			<cmc>1</cmc>
+			<type>Action</type> 
+			<tablerow>1</tablerow>
+			<text>+3[DamageRating]</text>
+		</card>
+		<card>
+			<name>Pyrus Vortex</name>
+			<set picURL="https://bakugan.wiki/images/a/ae/Pyrus_Vortex_ENG_26_CO_AV_HEX.png">AV</set>
+			<color>Pyrus</color>
+			<manacost>3</manacost>
+			<cmc>3</cmc>
+			<type>Action</type> 
+			<tablerow>1</tablerow>
+			<text>+5[DamageRating]
+
+[Rapid Fire] The second Rapid Fire card you play this turn is free.</text>
+		</card>
+		<card>
+			<name>Giant Inferno</name>
+			<set picURL="">AV</set>
+			<color>Pyrus</color>
+			<manacost>2</manacost>
+			<cmc>2</cmc>
+			<type>Action</type> 
+			<tablerow>1</tablerow>
+			<text>+[DoubleStrike]</text>
+		</card>
+		<card>
+			<name>Pyrusauna</name>
+			<set picURL="https://bakugan.wiki/images/b/b7/Pyrusauna_ENG_28_AR_AV_HEX.png">AV</set>
+			<color>Pyrus</color>
+			<manacost>3</manacost>
+			<cmc>3</cmc>
+			<type>Action</type> 
+			<tablerow>1</tablerow>
+			<text>Reveal the top card of your deck. You may play any non-Flip cards revealed this way for free.
+
+[Empower] You may pay an additional 3[Energy] to return this to your hand.</text>
+		</card>
+		<card>
+			<name>Lava Lash</name>
+			<set picURL="https://bakugan.wiki/images/b/b5/Lava_Lash_ENG_29_RA_HEX.png">AV</set>
+			<color>Pyrus</color>
+			<manacost>2</manacost>
+			<cmc>2</cmc>
+			<type>Action</type> 
+			<tablerow>1</tablerow>
+			<text>You can only play this before rolling.
+
+This turn, your Bakugan gets "[Victor] +4[Energy]."</text>
+		</card>
+		<card>
+			<name>Molten Stomp</name>
+			<set picURL="">AV</set>
+			<color>Pyrus</color>
+			<manacost>4</manacost>
+			<cmc>4</cmc>
+			<type>Action</type> 
+			<tablerow>1</tablerow>
+			<text>Each player discards their entire hand then draws three cards.</text>
+		</card>
+		<card>
+			<name>Incendiary Flames</name>
+			<set picURL="">AV</set>
+			<color>Pyrus</color>
+			<manacost>8</manacost>
+			<cmc>8</cmc>
+			<type>Action</type> 
+			<tablerow>1</tablerow>
+			<text>Make a [Pyrus] attack equal to the [DamageRating] of one of your Bakugan.</text>
+		</card>
+		<card>
+			<name>Magma Flow</name>
+			<set picURL="https://bakugan.wiki/images/5/52/Magma_Flow_ENG_32_CO_AV_HEX.png">AV</set>
+			<color>Pyrus</color>
+			<manacost>4</manacost>
+			<cmc>4</cmc>
+			<type>Action</type> 
+			<tablerow>1</tablerow>
+			<text>+700[B-Power]</text>
+		</card>
+		<card>
+			<name>Ventustealth</name>
+			<set picURL="https://bakugan.wiki/images/f/fc/Ventustealth_ENG_33_CO_AV.png">AV</set>
+			<color>Ventus</color>
+			<manacost>7</manacost>
+			<cmc>7</cmc>
+			<type>Action</type> 
+			<tablerow>1</tablerow>
+			<text>-1000[B-Power]
+
+-10[DamageRating]</text>
+		</card>
+		<card>
+			<name>Ventus Roar</name>
+			<set picURL="https://bakugan.wiki/images/e/e1/Ventus_Roar_ENG_34_SR_AV.png">AV</set>
+			<color>Ventus</color>
+			<manacost>3</manacost>
+			<cmc>3</cmc>
+			<type>Action</type> 
+			<tablerow>1</tablerow>
+			<text>+6[DamageRating]
+
+[Trifecta] If your Bakugan have three or more BakuCores attached to them, energize this uncharged.</text>
+		</card>
+		<card>
+			<name>Bakubite</name>
+			<set picURL="https://bakugan.wiki/images/b/b7/Bakubite_ENG_35_CO_AV.png">AV</set>
+			<color>Ventus</color>
+			<manacost>4</manacost>
+			<cmc>4</cmc>
+			<type>Action</type> 
+			<tablerow>1</tablerow>
+			<text>+9[DamageRating]</text>
+		</card>
+		<card>
+			<name>Wind Storm</name>
+			<set picURL="">AV</set>
+			<color>Ventus</color>
+			<manacost>0</manacost>
+			<cmc>0</cmc>
+			<type>Action</type> 
+			<tablerow>1</tablerow>
+			<text>-100[B-Power]
+
+[Boost] If you have seven or more Energy cards in play, -500[B-Power] instead.</text>
+		</card>
+		<card>
+			<name>Entropic Touch</name>
+			<set picURL="">AV</set>
+			<color>Ventus</color>
+			<manacost>4</manacost>
+			<cmc>4</cmc>
+			<type>Action</type> 
+			<tablerow>1</tablerow>
+			<text>Destroy all enemy Baku-Gear cards.</text>
+		</card>
+		<card>
+			<name>Ventus Fort</name>
+			<set picURL="https://bakugan.wiki/images/6/66/Ventus_Fort_ENG_38_RA_AV.png">AV</set>
+			<color>Ventus</color>
+			<manacost>2</manacost>
+			<cmc>2</cmc>
+			<type>Action</type> 
+			<tablerow>1</tablerow>
+			<text>You can only play this before rolling.
+
+This turn, your Bakugan gets, "[Victor] Energize the top two cards of your deck uncharged."</text>
+		</card>
+		<card>
+			<name>Ultrasonic Speed</name>
+			<set picURL="">AV</set>
+			<color>Ventus</color>
+			<manacost>3</manacost>
+			<cmc>3</cmc>
+			<type>Action</type> 
+			<tablerow>1</tablerow>
+			<text>[Draw] 1
+
+You may Energize a card in your hand uncharged.</text>
+		</card>
+		<card>
+			<name>Ventustink</name>
+			<set picURL="">AV</set>
+			<color>Ventus</color>
+			<manacost>3</manacost>
+			<cmc>3</cmc>
+			<type>Action</type> 
+			<tablerow>1</tablerow>
+			<text>-600[B-Power]</text>
+		</card>
+		<card>
+			<name>Corruption</name>
+			<set picURL="https://bakugan.wiki/images/7/75/Corruption_ENG_41_SR_AV.png">AV</set>
+			<color>Darkus/Aquos</color>
+			<manacost>4</manacost>
+			<cmc>4</cmc>
+			<type>Action</type> 
+			<tablerow>1</tablerow>
+			<text>[Draw] 3
+
+[Sync] You may reveal a card in your hand that costs 4[Energy], if you do, your opponent discards a card.</text>
+		</card>
+		<card>
+			<name>Dark Water Ambush</name>
+			<set picURL="https://bakugan.wiki/images/6/6b/Dark_Water_Ambush_ENG_42_RA_AV_HEX.png">AV</set>
+			<color>Darkus/Aquos</color>
+			<manacost>3</manacost>
+			<cmc>3</cmc>
+			<type>Action</type> 
+			<tablerow>1</tablerow>
+			<text>[Draw] 1
+
+Choose a player to discard a card.</text>
+		</card>
+		<card>
+			<name>Darkutsunami</name>
+			<set picURL="https://bakugan.wiki/images/9/95/Darkutsunami_ENG_43_CO_AV.png">AV</set>
+			<color>Darkus/Aquos</color>
+			<manacost>4</manacost>
+			<cmc>4</cmc>
+			<type>Action</type> 
+			<tablerow>1</tablerow>
+			<text>+500[B-Power]
+
++5[DamageRating]</text>
+		</card>
+		<card>
+			<name>Dark Reign</name>
+			<set picURL="https://bakugan.wiki/images/e/e8/Dark_Reign_ENG_44_CO_AV.png">AV</set>
+			<color>Darkus/Aquos</color>
+			<manacost>2</manacost>
+			<cmc>2</cmc>
+			<type>Action</type> 
+			<tablerow>1</tablerow>
+			<text>+4[DamageRating]
+
+[Sync] You may reveal a Baku-Gear card in your hand for +400[B-Power].</text>
+		</card>
+		<card>
+			<name>Darkus Ash</name>
+			<set picURL="https://bakugan.wiki/images/d/dc/Darkus_Ash_ENG_45_CO_AV.png">AV</set>
+			<color>Pyrus/Darkus</color>
+			<manacost>1</manacost>
+			<cmc>1</cmc>
+			<type>Action</type> 
+			<tablerow>1</tablerow>
+			<text>+3[DamageRating]
+
+[Rapid Fire] The second Rapid Fire card you play this turn is free.</text>
+		</card>
+		<card>
+			<name>Shadowflame</name>
+			<set picURL="https://bakugan.wiki/images/f/fa/Shadowflame_ENG_46_RA_AV.png">AV</set>
+			<color>Pyrus/Darkus</color>
+			<manacost>2</manacost>
+			<cmc>2</cmc>
+			<type>Action</type> 
+			<tablerow>1</tablerow>
+			<text>+[DoubleStrike] and +[ShadowStrike]
+
+[Rapid Fire] The second Rapid Fire card you play this turn is free.</text>
+		</card>
+		<card>
+			<name>Dark Rage</name>
+			<set picURL="">AV</set>
+			<color>Pyrus/Darkus</color>
+			<manacost>5</manacost>
+			<cmc>5</cmc>
+			<type>Action</type> 
+			<tablerow>1</tablerow>
+			<text>-5[DamageRating]
+
+This turn, the [Victor] is decided by highest [DamageRating] instead of [B-Power].</text>
+		</card>
+		<card>
+			<name>Raging Darkness</name>
+			<set picURL="https://bakugan.wiki/images/0/0e/Raging_Darkness_ENG_48_CO_AV.png">AV</set>
+			<color>Pyrus/Darkus</color>
+			<manacost>3</manacost>
+			<cmc>3</cmc>
+			<type>Action</type> 
+			<tablerow>1</tablerow>
+			<text>+10[DamageRating]</text>
+		</card>
+		<card>
+			<name>Focus Fire</name>
+			<set picURL="https://bakugan.wiki/images/b/b7/Focus_Fire_ENG_49_CO_AV.png">AV</set>
+			<color>Haos/Pyrus</color>
+			<manacost>3</manacost>
+			<cmc>3</cmc>
+			<type>Action</type> 
+			<tablerow>1</tablerow>
+			<text>+500[B-Power]
+
+[Empower] You may pay an additional 3[Energy] for +[DoubleStrike] and +3[FrostStrike].</text>
+		</card>
+		<card>
+			<name>Spirit Speed</name>
+			<set picURL="https://bakugan.wiki/images/8/86/Spirit_Speed_ENG_50_SR_AV.png">AV</set>
+			<color>Haos/Pyrus</color>
+			<manacost>3</manacost>
+			<cmc>3</cmc>
+			<type>Action</type> 
+			<tablerow>1</tablerow>
+			<text>Play a non-Flip card from your hand with cost 5[Energy] or less for free.
+
+[Empower] You may pay an additional 3[Energy] to play another non-Flip card with cost 5[Energy] or less for free.</text>
+		</card>
+		<card>
+			<name>Pyrobliterator</name>
+			<set picURL="https://bakugan.wiki/images/1/17/Pyrobliterator_ENG_51_CO_AV.png">AV</set>
+			<color>Haos/Pyrus</color>
+			<manacost>2</manacost>
+			<cmc>2</cmc>
+			<type>Action</type> 
+			<tablerow>1</tablerow>
+			<text>+700[B-Power]</text>
+		</card>
+		<card>
+			<name>Haotic Flare</name>
+			<set picURL="https://bakugan.wiki/images/e/ee/Haotic_Flare_ENG_52_RA_AV.png">AV</set>
+			<color>Haos/Pyrus</color>
+			<manacost>1</manacost>
+			<cmc>1</cmc>
+			<type>Action</type> 
+			<tablerow>1</tablerow>
+			<text>+3[DamageRating]
+
+You may Empower the next card you play this turn for free.</text>
+		</card>
+		<card>
+			<name>Heaven and Earth Strike</name>
+			<set picURL="https://bakugan.wiki/images/d/d3/Heaven_and_Earth_Strike_ENG_53_RA_AV.png">AV</set>
+			<color>Ventus/Haos</color>
+			<manacost>3</manacost>
+			<cmc>3</cmc>
+			<type>Action</type> 
+			<tablerow>1</tablerow>
+			<text>Reroll your Bakugan. If that Bakugan opens on the Reroll, you may attach an additional BakuCore from the Field to it.</text>
+		</card>
+		<card>
+			<name>Divine Evolution</name>
+			<set picURL="https://bakugan.wiki/images/5/56/Divine_Evolution_ENG_54_CO_AV.png">AV</set>
+			<color>Ventus/Haos</color>
+			<manacost>2</manacost>
+			<cmc>2</cmc>
+			<type>Action</type> 
+			<tablerow>1</tablerow>
+			<text>+200[B-Power] and +2[DamageRating]
+
+[Trifecta] If your Bakugan have three or more BakuCores attached to them, +500[B-Power] and +5[DamageRating] instead.</text>
+		</card>
+		<card>
+			<name>Crystallize</name>
+			<set picURL="https://bakugan.wiki/images/e/e1/Crystallize_ENG_55_SR_AV.png">AV</set>
+			<color>Ventus/Haos</color>
+			<manacost>2</manacost>
+			<cmc>2</cmc>
+			<type>Action</type> 
+			<tablerow>1</tablerow>
+			<text>+2[FrostStrike]
+	
+	If the opposing player plays a Flip card this turn, [Draw] 2.</text>
+		</card>
+		<card>
+			<name>Energetic Decay</name>
+			<set picURL="https://bakugan.wiki/images/1/1d/Energetic_Decay_ENG_56_CO_AV.png">AV</set>
+			<color>Ventus/Haos</color>
+			<manacost>1</manacost>
+			<cmc>1</cmc>
+			<type>Action</type> 
+			<tablerow>1</tablerow>
+			<text>-5[DamageRating]</text>
+		</card>
+		<card>
+			<name>Spring of Life</name>
+			<set picURL="">AV</set>
+			<color>Aquos/Ventus</color>
+			<manacost>5</manacost>
+			<cmc>5</cmc>
+			<type>Action</type> 
+			<tablerow>1</tablerow>
+			<text>[Draw] 3
+
+You may Energize a card in your hand uncharged.</text>
+		</card>
+		<card>
+			<name>Recycle</name>
+			<set picURL="">AV</set>
+			<color>Aquos/Ventus</color>
+			<manacost>2</manacost>
+			<cmc>2</cmc>
+			<type>Action</type> 
+			<tablerow>1</tablerow>
+			<text>Destroy one of your Energy cards in play to [Draw] 2.
+
+[Boost] If you have seven or more Energy cards in play, return this to your hand.</text>
+		</card>
+		<card>
+			<name>Deep Vines</name>
+			<set picURL="">AV</set>
+			<color>Aquos/Ventus</color>
+			<manacost>3</manacost>
+			<cmc>3</cmc>
+			<type>Action</type> 
+			<tablerow>1</tablerow>
+			<text>-400[B-Power]
+
+[Boost] If you have seven or more Energy cards in play, -8[DamageRating].</text>
+		</card>
+		<card>
+			<name>Nature's Wrath</name>
+			<set picURL="">AV</set>
+			<color>Aquos/Ventus</color>
+			<manacost>7</manacost>
+			<cmc>7</cmc>
+			<type>Action</type> 
+			<tablerow>1</tablerow>
+			<text>+2000[B-Power]</text>
+		</card>
+		<card>
+			<name>Aquoslime</name>
+			<set picURL="">AV</set>
+			<color>Aquos</color>
+			<manacost>3</manacost>
+			<cmc>3</cmc>
+			<type>Flip</type> 
+			<tablerow>3</tablerow>
+			<text>[Stop] [Haos] or [Pyrus]
+
+[Draw] 2</text>
+			<cipt>1</cipt>
+		</card>
+		<card>
+			<name>Tail Whip</name>
+			<set picURL="">AV</set>
+			<color>Darkus</color>
+			<manacost>3</manacost>
+			<cmc>3</cmc>
+			<type>Flip</type> 
+			<tablerow>3</tablerow>
+			<text>[Stop] [Haos] or [Ventus]
+
+Choose a player to discard a card.</text>
+			<cipt>1</cipt>
+		</card>
+		<card>
+			<name>Lightning Wing</name>
+			<set picURL="">AV</set>
+			<color>Haos</color>
+			<manacost>3</manacost>
+			<cmc>3</cmc>
+			<type>Flip</type> 
+			<tablerow>3</tablerow>
+			<text>[Stop] [Darkus] or [Aquos]
+
+Attach two BakuCores from the Field to one of your open Bakugan.</text>
+			<cipt>1</cipt>
+		</card>
+		<card>
+			<name>Flame Jump</name>
+			<set picURL="">AV</set>
+			<color>Pyrus</color>
+			<manacost>3</manacost>
+			<cmc>3</cmc>
+			<type>Flip</type> 
+			<tablerow>3</tablerow>
+			<text>[Stop] [Aquos] or [Ventus]
+
+Make a [Pyrus] attack for 3[DamageRating].</text>
+			<cipt>1</cipt>
+		</card>
+		<card>
+			<name>Natural Defenses</name>
+			<set picURL="">AV</set>
+			<color>Ventus</color>
+			<manacost>3</manacost>
+			<cmc>3</cmc>
+			<type>Flip</type> 
+			<tablerow>3</tablerow>
+			<text>[Stop] [Darkus] or [Pyrus]
+
+Energize this uncharged.</text>
+			<cipt>1</cipt>
+		</card>
+		<card>
+			<name>Swirling Darkness</name>
+			<set picURL="">AV</set>
+			<color>Darkus/Aquos</color>
+			<manacost>2</manacost>
+			<cmc>2</cmc>
+			<type>Flip</type> 
+			<tablerow>3</tablerow>
+			<text>[Stop] non-[Darkus], non-[Aquos]</text>
+			<cipt>1</cipt>
+		</card>
+		<card>
+			<name>Pyruportal</name>
+			<set picURL="">AV</set>
+			<color>Pyrus/Darkus</color>
+			<manacost>2</manacost>
+			<cmc>2</cmc>
+			<type>Flip</type> 
+			<tablerow>3</tablerow>
+			<text>[Stop] non-[Pyrus], non-[Darkus]</text>
+			<cipt>1</cipt>
+		</card>
+		<card>
+			<name>Cosmic Fireball</name>
+			<set picURL="">AV</set>
+			<color>Haos/Pyrus</color>
+			<manacost>2</manacost>
+			<cmc>2</cmc>
+			<type>Flip</type> 
+			<tablerow>3</tablerow>
+			<text>[Stop] non-[Haos], non-[Pyrus]</text>
+			<cipt>1</cipt>
+		</card>
+		<card>
+			<name>Bakublock</name>
+			<set picURL="">AV</set>
+			<color>Ventus/Haos</color>
+			<manacost>2</manacost>
+			<cmc>2</cmc>
+			<type>Flip</type> 
+			<tablerow>3</tablerow>
+			<text>[Stop] non-[Ventus], non-[Haos]</text>
+			<cipt>1</cipt>
+		</card>
+		<card>
+			<name>Over and Under</name>
+			<set picURL="">AV</set>
+			<color>Aquos/Ventus</color>
+			<manacost>2</manacost>
+			<cmc>2</cmc>
+			<type>Flip</type> 
+			<tablerow>3</tablerow>
+			<text>[Stop] non-[Aquos], non-[Ventus]</text>
+			<cipt>1</cipt>
+		</card>
+		<card>
+			<name>Master Strategist</name>
+			<set picURL="">AV</set>
+			<color>Aquos</color>
+			<manacost>5</manacost>
+			<cmc>5</cmc>
+			<type>Flip Hero</type> 
+			<tablerow>3</tablerow>
+			<text>[Stop] non-[Aquos] and put this into play.
+
+Your Bakugan have "[Victor][Draw] 1."</text>
+			<cipt>1</cipt>
+		</card>
+		<card>
+			<name>Intimidation</name>
+			<set picURL="">AV</set>
+			<color>Darkus</color>
+			<manacost>4</manacost>
+			<cmc>4</cmc>
+			<type>Flip Hero</type> 
+			<tablerow>3</tablerow>
+			<text>[Stop] non-[Darkus] and put this into play.
+
+When a player discards a card, give a Bakugan +2[DamageRating].</text>
+			<cipt>1</cipt>
+		</card>
+		<card>
+			<name>Inspired Brawler</name>
+			<set picURL="">AV</set>
+			<color>Haos</color>
+			<manacost>5</manacost>
+			<cmc>5</cmc>
+			<type>Flip Hero</type> 
+			<tablerow>3</tablerow>
+			<text>[Stop] non-[Haos] and put this into play.
+
+Your Bakugan have +1[FrostStrike]</text>
+			<cipt>1</cipt>
+		</card>
+		<card>
+			<name>Fiery Friend</name>
+			<set picURL="">AV</set>
+			<color>Pyrus</color>
+			<manacost>6</manacost>
+			<cmc>6</cmc>
+			<type>Flip Hero</type> 
+			<tablerow>3</tablerow>
+			<text>[Stop] non-[Pyrus] and put this into play.
+
+Your Bakugan have +[DoubleStrike].</text>
+			<cipt>1</cipt>
+		</card>
+		<card>
+			<name>Well Practiced</name>
+			<set picURL="">AV</set>
+			<color>Ventus</color>
+			<manacost>5</manacost>
+			<cmc>5</cmc>
+			<type>Flip Hero</type> 
+			<tablerow>3</tablerow>
+			<text>[Stop] non-[Ventus] and put this into play.
+
+When your Bakugan opens, each player reveals the top card of their deck. If yours costs more, +500[B-Power].</text>
+			<cipt>1</cipt>
+		</card>
+		<card>
+			<name>Hydorous, Ultimate Gamer</name>
+			<set picURL="">AV</set>
+			<color>Aquos</color>
+			<manacost>3</manacost>
+			<cmc>3</cmc>
+			<type>Hero</type> 
+			<tablerow>2</tablerow>
+			<text>[Boost] If you have seven or more Energy cards in play, when you Energize a card, [Draw] 1.</text>
+		</card>
+		<card>
+			<name>Lightning, Tail Chaser</name>
+			<set picURL="https://bakugan.wiki/images/8/85/Lightning%2C_Tail_Chaser_ENG_77_RA_AV.png">AV</set>
+			<color>Darkus</color>
+			<manacost>3</manacost>
+			<cmc>3</cmc>
+			<type>Hero</type> 
+			<tablerow>2</tablerow>
+			<text>[Sync] You may reveal a card in your hand with the same name as the card you played to [Draw] 1.</text>
+		</card>
+		<card>
+			<name>Pegatrix, Video Star</name>
+			<set picURL="https://bakugan.wiki/images/e/e5/Pegatrix%2C_Video_Star_ENG_78_RA_AV.png">AV</set>
+			<color>Haos</color>
+			<manacost>2</manacost>
+			<cmc>2</cmc>
+			<type>Hero</type> 
+			<tablerow>2</tablerow>
+			<text>[Empower] When you play this, you may pay an additional 3[Energy], if you do, [Draw] 2.
+
+When you Team Attack, you may [Draw] 2.</text>
+		</card>
+		<card>
+			<name>Dragonoid, Skater Supreme</name>
+			<set picURL="">AV</set>
+			<color>Pyrus</color>
+			<manacost>2</manacost>
+			<cmc>2</cmc>
+			<type>Hero</type> 
+			<tablerow>2</tablerow>
+			<text>[Rapid Fire] The second Rapid Fire card you play this turn is free.
+
+The third Rapid Fire card you play each turn is free.</text>
+		</card>
+		<card>
+			<name>Wynton, The Hungry</name>
+			<set picURL="https://bakugan.wiki/images/7/7d/Wynton_the_Hungry_ENG_80_RA_AV_HEX.png">AV</set>
+			<color>Ventus</color>
+			<manacost>1</manacost>
+			<cmc>1</cmc>
+			<type>Hero</type> 
+			<tablerow>2</tablerow>
+			<text>[Trifecta] If your Bakugan have three or more BakuCores attached to them, your Bakugan attacks get +3[DamageRating] and +[ShadowStrike].</text>
+		</card>
+		<card>
+			<name>Fade Ninja, Bakurider</name>
+			<set picURL="">AV</set>
+			<color>Darkus/Aquos</color>
+			<manacost>3</manacost>
+			<cmc>3</cmc>
+			<type>Hero</type> 
+			<tablerow>2</tablerow>
+			<text>When you reveal a card in your hand, a Bakugan gets +300[B-Power].</text>
+		</card>
+		<card>
+			<name>Nillious, Troublemaker</name>
+			<set picURL="">AV</set>
+			<color>Pyrus/Darkus</color>
+			<manacost>3</manacost>
+			<cmc>3</cmc>
+			<type>Hero</type> 
+			<tablerow>2</tablerow>
+			<text>[Rapid Fire] The second Rapid Fire card you play this turn is free.
+
++2[DamageRating] to your Bakugan attacks.</text>
+		</card>
+		<card>
+			<name>Lia and Dan</name>
+			<set picURL="">AV</set>
+			<color>Haos/Pyrus</color>
+			<manacost>4</manacost>
+			<cmc>4</cmc>
+			<type>Hero</type> 
+			<tablerow>2</tablerow>
+			<text>You may Empower cards for free.</text>
+		</card>
+		<card>
+			<name>Lia and Wynton</name>
+			<set picURL="">AV</set>
+			<color>Ventus/Haos</color>
+			<manacost>3</manacost>
+			<cmc>3</cmc>
+			<type>Hero</type> 
+			<tablerow>2</tablerow>
+			<text>Your Bakugan have "[Victor] Attach a [Fist] from the Field to this."</text>
+		</card>
+		<card>
+			<name>Lily</name>
+			<set picURL="">AV</set>
+			<color>Aquos/Ventus</color>
+			<manacost>7</manacost>
+			<cmc>7</cmc>
+			<type>Hero</type> 
+			<tablerow>2</tablerow>
+			<text>You draw an additional card each turn.
+
+You may Energize an additional card from your hand each turn.</text>
+		</card>
+		<card>
+			<name>Tempest Generator</name>
+			<set picURL="https://bakugan.wiki/images/e/e3/Tempest_Generator_ENG_86_CO_AV.png">AV</set>
+			<color>Aquos</color>
+			<manacost>2</manacost>
+			<cmc>2</cmc>
+			<type>Baku-Gear</type> 
+			<pt>+100/+1</pt>
+			<tablerow>2</tablerow>
+			<text>When you play this, you may Reroll this Bakugan.</text>
+		</card>
+		<card>
+			<name>Aquoplate</name>
+			<set picURL="https://bakugan.wiki/images/b/b0/Aquoplate_ENG_87_CO_AV.png">AV</set>
+			<color>Aquos</color>
+			<manacost>3</manacost>
+			<cmc>3</cmc>
+			<type>Baku-Gear</type> 
+			<pt>+400/0</pt>
+			<tablerow>2</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>Vortex Blaster</name>
+			<set picURL="">AV</set>
+			<color>Aquos</color>
+			<manacost>3</manacost>
+			<cmc>3</cmc>
+			<type>Baku-Gear</type> 
+			<pt>+100/+3</pt>
+			<tablerow>2</tablerow>
+			<text>[Sync] When you play this, you may reveal a card in your hand that costs 5[Energy] or more for +500[B-Power].</text>
+		</card>
+		<card>
+			<name>BakuThrusters</name>
+			<set picURL="https://bakugan.wiki/images/6/62/BakuThrusters_ENG_89_CO_AV.png">AV</set>
+			<color>Aquos</color>
+			<manacost>4</manacost>
+			<cmc>4</cmc>
+			<type>Baku-Gear</type> 
+			<pt>+300/+3</pt>
+			<tablerow>2</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>Wings of Aquos</name>
+			<set picURL="https://bakugan.wiki/images/9/9e/Wings_of_Aquos_ENG_90_RA_AV.png">AV</set>
+			<color>Aquos</color>
+			<manacost>5</manacost>
+			<cmc>5</cmc>
+			<type>Baku-Gear</type> 
+			<pt>+100/+6</pt>
+			<tablerow>2</tablerow>
+			<text>When you play this, [Draw] 2.</text>
+		</card>
+		<card>
+			<name>Aquogreaves</name>
+			<set picURL="https://bakugan.wiki/images/a/a1/Aquogreaves_ENG_91_SR_AV.png">AV</set>
+			<color>Aquos</color>
+			<manacost>5</manacost>
+			<cmc>5</cmc>
+			<type>Baku-Gear</type> 
+			<pt>+200/+4</pt>
+			<tablerow>2</tablerow>
+			<text>+4[FrostStrike]</text>
+		</card>
+		<card>
+			<name>Silent Spears</name>
+			<set picURL="https://i.imgur.com/SI3MQNR.jpg">AV</set>
+			<color>Aurelus</color>
+			<manacost>7</manacost>
+			<cmc>7</cmc>
+			<type>Baku-Gear</type>
+			<pt>+500/0</pt>
+			<tablerow>2</tablerow>
+			<text>When you play this, you may destroy any card in play.</text>
+		</card>
+		<card>
+			<name>Silent Spears (PR)</name>
+			<set picURL="https://bakugan.wiki/images/5/5a/Silent_Spears_ENG_92_RA_AV.png">AV</set>
+			<color>Aurelus</color>
+			<manacost>5</manacost>
+			<cmc>5</cmc>
+			<type>Baku-Gear</type> 
+			<pt>+500/0</pt>
+			<tablerow>2</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>Scorching Swords</name>
+			<set picURL="">AV</set>
+			<color>Darkus</color>
+			<manacost>2</manacost>
+			<cmc>2</cmc>
+			<type>Baku-Gear</type> 
+			<pt>+100/+1</pt>
+			<tablerow>2</tablerow>
+			<text>+[ShadowStrike]</text>
+		</card>
+		<card>
+			<name>Darkhelm</name>
+			<set picURL="">AV</set>
+			<color>Darkus</color>
+			<manacost>3</manacost>
+			<cmc>3</cmc>
+			<type>Baku-Gear</type> 
+			<pt>+200/+2</pt>
+			<tablerow>2</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>Twilight Axes</name>
+			<set picURL="">AV</set>
+			<color>Darkus</color>
+			<manacost>4</manacost>
+			<cmc>4</cmc>
+			<type>Baku-Gear</type> 
+			<pt>+300/+3</pt>
+			<tablerow>2</tablerow>
+			<text>[Rapid Fire] The second Rapid Fire card you play this turn is free.</text>
+		</card>
+		<card>
+			<name>Darkdaggers</name>
+			<set picURL="">AV</set>
+			<color>Darkus</color>
+			<manacost>4</manacost>
+			<cmc>4</cmc>
+			<type>Baku-Gear</type> 
+			<pt>+200/+5</pt>
+			<tablerow>2</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>Dark Sledge</name>
+			<set picURL="">AV</set>
+			<color>Darkus</color>
+			<manacost>6</manacost>
+			<cmc>6</cmc>
+			<type>Baku-Gear</type> 
+			<pt>+300/+6</pt>
+			<tablerow>2</tablerow>
+			<text>When you play this, choose a player to discard two cards.</text>
+		</card>
+		<card>
+			<name>MechaClaws</name>
+			<set picURL="">AV</set>
+			<color>Darkus</color>
+			<manacost>5</manacost>
+			<cmc>5</cmc>
+			<type>Baku-Gear</type> 
+			<pt>+400/+4</pt>
+			<tablerow>2</tablerow>
+			<text>If you have no other cards in hand, you may play this for free.</text>
+		</card>
+		<card>
+			<name>Bolt Blow</name>
+			<set picURL="">AV</set>
+			<color>Haos</color>
+			<manacost>2</manacost>
+			<cmc>2</cmc>
+			<type>Baku-Gear</type> 
+			<pt>+100/0</pt>
+			<tablerow>2</tablerow>
+			<text>+2[FrostStrike]</text>
+		</card>
+		<card>
+			<name>Lightning Striker</name>
+			<set picURL="">AV</set>
+			<color>Haos</color>
+			<manacost>3</manacost>
+			<cmc>3</cmc>
+			<type>Baku-Gear</type> 
+			<pt>+200/0</pt>
+			<tablerow>2</tablerow>
+			<text>[Trifecta] If your Bakugan have three or more BakuCores attached to them, +7[DamageRating].</text>
+		</card>
+		<card>
+			<name>Guardian Wings</name>
+			<set picURL="">AV</set>
+			<color>Haos</color>
+			<manacost>3</manacost>
+			<cmc>3</cmc>
+			<type>Baku-Gear</type> 
+			<pt>+100/+3</pt>
+			<tablerow>2</tablerow>
+			<text>When you play this, [Draw] 1.</text>
+		</card>
+		<card>
+			<name>Glimmering Glaive</name>
+			<set picURL="">AV</set>
+			<color>Haos</color>
+			<manacost>4</manacost>
+			<cmc>4</cmc>
+			<type>Baku-Gear</type> 
+			<pt>+400/0</pt>
+			<tablerow>2</tablerow>
+			<text>When you play this, you may attach a BakuCore from the field to one of your Bakugan.</text>
+		</card>
+		<card>
+			<name>Brilliant Armor</name>
+			<set picURL="">AV</set>
+			<color>Haos</color>
+			<manacost>5</manacost>
+			<cmc>5</cmc>
+			<type>Baku-Gear</type> 
+			<pt>+300/+6</pt>
+			<tablerow>2</tablerow>
+			<text>[Victor][Draw] 1</text>
+		</card>
+		<card>
+			<name>Haobracers</name>
+			<set picURL="">AV</set>
+			<color>Haos</color>
+			<manacost>6</manacost>
+			<cmc>6</cmc>
+			<type>Baku-Gear</type> 
+			<pt>+1000/0</pt>
+			<tablerow>2</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>Pyrucannon</name>
+			<set picURL="https://bakugan.wiki/images/3/31/Pyrucannon_ENG_105_CO_AV.png">AV</set>
+			<color>Pyrus</color>
+			<manacost>2</manacost>
+			<cmc>2</cmc>
+			<type>Baku-Gear</type> 
+			<pt>+100/+2</pt>
+			<tablerow>2</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>Magma Blaster</name>
+			<set picURL="">AV</set>
+			<color>Pyrus</color>
+			<manacost>3</manacost>
+			<cmc>3</cmc>
+			<type>Baku-Gear</type> 
+			<pt>+200/0</pt>
+			<tablerow>2</tablerow>
+			<text>+[DoubleStrike]</text>
+		</card>
+		<card>
+			<name>Fire Launcher</name>
+			<set picURL="">AV</set>
+			<color>Pyrus</color>
+			<manacost>5</manacost>
+			<cmc>5</cmc>
+			<type>Baku-Gear</type> 
+			<pt>+300/0</pt>
+			<tablerow>2</tablerow>
+			<text>When you play this, +4[Energy].</text>
+		</card>
+		<card>
+			<name>Rocket Bracers</name>
+			<set picURL="">AV</set>
+			<color>Pyrus</color>
+			<manacost>4</manacost>
+			<cmc>4</cmc>
+			<type>Baku-Gear</type> 
+			<pt>+300/+3</pt>
+			<tablerow>2</tablerow>
+			<text>When you play this, make a [Pyrus] attack for 1[DamageRating].</text>
+		</card>
+		<card>
+			<name>Rage Mask</name>
+			<set picURL="">AV</set>
+			<color>Pyrus</color>
+			<manacost>5</manacost>
+			<cmc>5</cmc>
+			<type>Baku-Gear</type> 
+			<pt>+400/+4</pt>
+			<tablerow>2</tablerow>
+			<text>[Empower] When you play this, you may pay an additional 3[Energy] to make a [Pyrus] attack for 5[DamageRating].</text>
+		</card>
+		<card>
+			<name>Pyruhammer</name>
+			<set picURL="">AV</set>
+			<color>Pyrus</color>
+			<manacost>6</manacost>
+			<cmc>6</cmc>
+			<type>Baku-Gear</type> 
+			<pt>+100/+12</pt>
+			<tablerow>2</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>Ventusmashers</name>
+			<set picURL="">AV</set>
+			<color>Ventus</color>
+			<manacost>2</manacost>
+			<cmc>2</cmc>
+			<type>Baku-Gear</type> 
+			<pt>+200/0</pt>
+			<tablerow>2</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>Ventus Cyclonator</name>
+			<set picURL="">AV</set>
+			<color>Ventus</color>
+			<manacost>3</manacost>
+			<cmc>3</cmc>
+			<type>Baku-Gear</type> 
+			<pt>+100/+1</pt>
+			<tablerow>2</tablerow>
+			<text>[Boost] When you play this, if you have seven or more Energy cards in play, +5[DamageRating].</text>
+		</card>
+		<card>
+			<name>Stealth Thruster</name>
+			<set picURL="">AV</set>
+			<color>Ventus</color>
+			<manacost>4</manacost>
+			<cmc>4</cmc>
+			<type>Baku-Gear</type> 
+			<pt>+400/0</pt>
+			<tablerow>2</tablerow>
+			<text>When you play this, Energize the top card of your deck uncharged.</text>
+		</card>
+		<card>
+			<name>Carnivore Claws</name>
+			<set picURL="">AV</set>
+			<color>Ventus</color>
+			<manacost>4</manacost>
+			<cmc>4</cmc>
+			<type>Baku-Gear</type> 
+			<pt>+400/0</pt>
+			<tablerow>2</tablerow>
+			<text>When you play this, choose a Bakugan to get -5[DamageRating] this turn.</text>
+		</card>
+		<card>
+			<name>Bakumortar</name>
+			<set picURL="">AV</set>
+			<color>Ventus</color>
+			<manacost>5</manacost>
+			<cmc>5</cmc>
+			<type>Baku-Gear</type> 
+			<pt>+300/+6</pt>
+			<tablerow>2</tablerow>
+			<text>+[ShadowStrike]</text>
+		</card>
+		<card>
+			<name>Ventuchanneler</name>
+			<set picURL="">AV</set>
+			<color>Ventus</color>
+			<manacost>10</manacost>
+			<cmc>10</cmc>
+			<type>Baku-Gear</type> 
+			<pt>+1000/+10</pt>
+			<tablerow>2</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>Aquos Hyper Dragonoid (AV)</name>
+			<set picURL="">AV</set>
+			<color>Aquos</color>
+			<manacost>1</manacost>
+			<cmc>1</cmc>
+			<type>Evo</type> 
+			<pt>700/4</pt>
+			<tablerow>1</tablerow>
+			<text>[Boost] If you have seven or more Energy cards in play, +300[B-Power] and +6[DamageRating].</text>
+		</card>
+		<card>
+			<name>Aquos Hyper Howlkor Ultra (AV)</name>
+			<set picURL="">AV</set>
+			<color>Aquos</color>
+			<manacost>7</manacost>
+			<cmc>7</cmc>
+			<type>Evo</type> 
+			<pt>1500/10</pt>
+			<tablerow>1</tablerow>
+			<text>[Victor][Draw] 1 for each Baku-Gear you have in play.</text>
+		</card>
+		<card>
+			<name>Aquos Hyper Nillious Ultra (AV)</name>
+			<set picURL="">AV</set>
+			<color>Aquos</color>
+			<manacost>4</manacost>
+			<cmc>4</cmc>
+			<type>Evo</type> 
+			<pt>1000/5</pt>
+			<tablerow>1</tablerow>
+			<text>While this has a Baku-Gear attached to it, +5[FrostStrike].</text>
+		</card>
+		<card>
+			<name>Aquos Maximus Trox Ultra (AV)</name>
+			<set picURL="">AV</set>
+			<color>Aquos</color>
+			<manacost>2</manacost>
+			<cmc>2</cmc>
+			<type>Evo</type> 
+			<pt>800/8</pt>
+			<tablerow>1</tablerow>
+			<text>When you attach a Baku-Gear to this, +500[B-Power] this turn.</text>
+		</card>
+		<card>
+			<name>Aquos Titan Nillious (AV)</name>
+			<set picURL="">AV</set>
+			<color>Aquos</color>
+			<manacost>5</manacost>
+			<cmc>5</cmc>
+			<type>Evo</type> 
+			<pt>1300/5</pt>
+			<tablerow>1</tablerow>
+			<text>[Victor][Sync] Reveal a card in your hand that costs 5[Energy] or more for +10[DamageRating].</text>
+		</card>
+		<card>
+			<name>Diamond Auxillataur</name>
+			<set picURL="">AV</set>
+			<color>Aurelus</color>
+			<manacost>4</manacost>
+			<cmc>4</cmc>
+			<type>Evo</type> 
+			<pt>600/10</pt>
+			<tablerow>1</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>Diamond Pharol</name>
+			<set picURL="">AV</set>
+			<color>Aurelus</color>
+			<manacost>8</manacost>
+			<cmc>8</cmc>
+			<type>Evo</type> 
+			<pt>1500/11</pt>
+			<tablerow>1</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>Aurelus Hyper Dragonoid Ultra (AV)</name>
+			<set picURL="">AV</set>
+			<color>Aurelus</color>
+			<manacost>2</manacost>
+			<cmc>2</cmc>
+			<type>Evo</type> 
+			<pt>800/1</pt>
+			<tablerow>1</tablerow>
+			<text>[Helix] +11[DamageRating]</text>
+		</card>
+		<card>
+			<name>Aurelus Hyper Nillious Ultra (AV)</name>
+			<set picURL="">AV</set>
+			<color>Aurelus</color>
+			<manacost>3</manacost>
+			<cmc>3</cmc>
+			<type>Evo</type> 
+			<pt>800/4</pt>
+			<tablerow>1</tablerow>
+			<text>While this has a Baku-Gear attached to it, +700[B-Power] and +7[DamageRating].</text>
+		</card>
+		<card>
+			<name>Aurelus Maximus Hydorous (AV)</name>
+			<set picURL="">AV</set>
+			<color>Aurelus</color>
+			<manacost>6</manacost>
+			<cmc>6</cmc>
+			<type>Evo</type> 
+			<pt>1000/10</pt>
+			<tablerow>1</tablerow>
+			<text>When you play this, you may play a Baku-Gear from your hand for free.</text>
+		</card>
+		<card>
+			<name>Aurelus Titan Pharol</name>
+			<set picURL="">AV</set>
+			<color>Aurelus</color>
+			<manacost>6</manacost>
+			<cmc>6</cmc>
+			<type>Evo</type> 
+			<pt>1300/7</pt>
+			<tablerow>1</tablerow>
+			<text>[Victor] Search your deck for a dual Faction card, reveal it and put it into your hand. Shuffle your deck.</text>
+		</card>
+		<card>
+			<name>Diamond Eenoch Ultra</name>
+			<set picURL="">AV</set>
+			<color>Darkus</color>
+			<manacost>9</manacost>
+			<cmc>9</cmc>
+			<type>Evo</type> 
+			<pt>1400/14</pt>
+			<tablerow>1</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>Diamond Howlkor</name>
+			<set picURL="">AV</set>
+			<color>Darkus</color>
+			<manacost>5</manacost>
+			<cmc>5</cmc>
+			<type>Evo</type> 
+			<pt>900/11</pt>
+			<tablerow>1</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>Diamond Nillious (AV)</name>
+			<set picURL="">AV</set>
+			<color>Darkus</color>
+			<manacost>4</manacost>
+			<cmc>4</cmc>
+			<type>Evo</type> 
+			<pt>600/12</pt>
+			<tablerow>1</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>Darkus Hyper Pegatrix (AV)</name>
+			<set picURL="">AV</set>
+			<color>Darkus</color>
+			<manacost>3</manacost>
+			<cmc>3</cmc>
+			<type>Evo</type> 
+			<pt>600/5</pt>
+			<tablerow>1</tablerow>
+			<text>When you attach a Baku-Gear to this, each player discards two cards.</text>
+		</card>
+		<card>
+			<name>Darkus Hyper Dragonoid Ultra (AV)</name>
+			<set picURL="">AV</set>
+			<color>Darkus</color>
+			<manacost>2</manacost>
+			<cmc>2</cmc>
+			<type>Evo</type> 
+			<pt>700/8</pt>
+			<tablerow>1</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>Darkus Hyper Hydorous Ultra (AV)</name>
+			<set picURL="">AV</set>
+			<color>Darkus</color>
+			<manacost>3</manacost>
+			<cmc>3</cmc>
+			<type>Evo</type> 
+			<pt>700/7</pt>
+			<tablerow>1</tablerow>
+			<text>[ShadowStrike]
+
+[Rapid Fire] The second Rapid Fire card you play this turn is free.</text>
+		</card>
+		<card>
+			<name>Darkus Hyper Trox Ultra (AV)</name>
+			<set picURL="">AV</set>
+			<color>Darkus</color>
+			<manacost>3</manacost>
+			<cmc>3</cmc>
+			<type>Evo</type> 
+			<pt>1000/3</pt>
+			<tablerow>1</tablerow>
+			<text>While this has a Baku-Gear attached to it, +6[DamageRating] and [ShadowStrike].</text>
+		</card>
+		<card>
+			<name>Darkus Maximus Nillious (AV)</name>
+			<set picURL="">AV</set>
+			<color>Darkus</color>
+			<manacost>8</manacost>
+			<cmc>8</cmc>
+			<type>Evo</type> 
+			<pt>1400/7</pt>
+			<tablerow>1</tablerow>
+			<text>[Rapid Fire] The second Rapid Fire card you play this turn is free.
+
+At the end of the turn, if you played this for free this turn, return this to your hand.</text>
+		</card>
+		<card>
+			<name>Darkus Titan Pharol</name>
+			<set picURL="">AV</set>
+			<color>Darkus</color>
+			<manacost>5</manacost>
+			<cmc>5</cmc>
+			<type>Evo</type> 
+			<pt>1200/5</pt>
+			<tablerow>1</tablerow>
+			<text>[Sync] When this opens you may reveal an Evo in your hand for +[DamageRating] equal to that Evo's [DamageRating].</text>
+		</card>
+		<card>
+			<name>Diamond Pegatrix Ultra (AV)</name>
+			<set picURL="">AV</set>
+			<color>Haos</color>
+			<manacost>9</manacost>
+			<cmc>9</cmc>
+			<type>Evo</type> 
+			<pt>1700/12</pt>
+			<tablerow>1</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>Haos Maximus Pegatrix Ultra (AV)</name>
+			<set picURL="">AV</set>
+			<color>Haos</color>
+			<manacost>6</manacost>
+			<cmc>6</cmc>
+			<type>Evo</type> 
+			<pt>1100/7</pt>
+			<tablerow>1</tablerow>
+			<text>When this opens, attach all BakuCores on opposing Bakugan to this.</text>
+		</card>
+		<card>
+			<name>Haos Hyper Pharol</name>
+			<set picURL="">AV</set>
+			<color>Haos</color>
+			<manacost>5</manacost>
+			<cmc>5</cmc>
+			<type>Evo</type> 
+			<pt>700/5</pt>
+			<tablerow>1</tablerow>
+			<text>When this opens, you may play a Baku-Gear from your hand on this for free.</text>
+		</card>
+		<card>
+			<name>Haos Hyper Pegatrix (AV)</name>
+			<set picURL="">AV</set>
+			<color>Haos</color>
+			<manacost>2</manacost>
+			<cmc>2</cmc>
+			<type>Evo</type> 
+			<pt>700/7</pt>
+			<tablerow>1</tablerow>
+			<text>[Empower] When you play this, you may pay an additional 3[Energy] to [Draw] 1.</text>
+		</card>
+		<card>
+			<name>Haos Maximus Trox Ultra (AV)</name>
+			<set picURL="">AV</set>
+			<color>Haos</color>
+			<manacost>7</manacost>
+			<cmc>7</cmc>
+			<type>Evo</type> 
+			<pt>1500/9</pt>
+			<tablerow>1</tablerow>
+			<text>[Trifecta] If your Bakugan have three or more BakuCores attached to them, this has +1500[B-Power] and +6[DamageRating].</text>
+		</card>
+		<card>
+			<name>Diamond Dragonoid (AV)</name>
+			<set picURL="">AV</set>
+			<color>Pyrus</color>
+			<manacost>6</manacost>
+			<cmc>6</cmc>
+			<type>Evo</type> 
+			<pt>1400/6</pt>
+			<tablerow>1</tablerow>
+			<text>[Fist] +20[DamageRating]</text>
+		</card>
+		<card>
+			<name>Diamond Cycloid</name>
+			<set picURL="">AV</set>
+			<color>Pyrus</color>
+			<manacost>6</manacost>
+			<cmc>6</cmc>
+			<type>Evo</type> 
+			<pt>1000/13</pt>
+			<tablerow>1</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>Diamond Gillator Ultra</name>
+			<set picURL="">AV</set>
+			<color>Pyrus</color>
+			<manacost>5</manacost>
+			<cmc>5</cmc>
+			<type>Evo</type> 
+			<pt>1300/7</pt>
+			<tablerow>1</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>Pyrus Hyper Hydorous Ultra (AV)</name>
+			<set picURL="">AV</set>
+			<color>Pyrus</color>
+			<manacost>2</manacost>
+			<cmc>2</cmc>
+			<type>Evo</type> 
+			<pt>700/4</pt>
+			<tablerow>1</tablerow>
+			<text>When you play this, if this Bakugan has a Baku-Gear attached to it, +3[Energy].</text>
+		</card>
+		<card>
+			<name>Pyrus Hyper Nillious Ultra (AV)</name>
+			<set picURL="">AV</set>
+			<color>Pyrus</color>
+			<manacost>3</manacost>
+			<cmc>3</cmc>
+			<type>Evo</type> 
+			<pt>700/8</pt>
+			<tablerow>1</tablerow>
+			<text>[Empower] When you play this, you may pay an additional 3[Energy] for +4[DamageRating].</text>
+		</card>
+		<card>
+			<name>Pyrus Hyper Pegatrix Ultra (AV)</name>
+			<set picURL="">AV</set>
+			<color>Pyrus</color>
+			<manacost>3</manacost>
+			<cmc>3</cmc>
+			<type>Evo</type> 
+			<pt>900/6</pt>
+			<tablerow>1</tablerow>
+			<text>[Rapid Fire] The second Rapid fire card you play this turn is free.</text>
+		</card>
+		<card>
+			<name>Pyrus Maximus Dragonoid Ultra (AV)</name>
+			<set picURL="">AV</set>
+			<color>Pyrus</color>
+			<manacost>6</manacost>
+			<cmc>6</cmc>
+			<type>Evo</type> 
+			<pt>1500/8</pt>
+			<tablerow>1</tablerow>
+			<text>[Victor] Play a Rapid Fire card in your discard pile for free.</text>
+		</card>
+		<card>
+			<name>Pyrus Titan Nillious (AV)</name>
+			<set picURL="">AV</set>
+			<color>Pyrus</color>
+			<manacost>4</manacost>
+			<cmc>4</cmc>
+			<type>Evo</type> 
+			<pt>1200/5</pt>
+			<tablerow>1</tablerow>
+			<text>When this opens, you may Empower the next card you play this turn for free.</text>
+		</card>
+		<card>
+			<name>Pyrus Titan Trox (AV)</name>
+			<set picURL="">AV</set>
+			<color>Pyrus</color>
+			<manacost>5</manacost>
+			<cmc>5</cmc>
+			<type>Evo</type> 
+			<pt>200/20</pt>
+			<tablerow>1</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>Diamond Trox Ultra (AV)</name>
+			<set picURL="">AV</set>
+			<color>Ventus</color>
+			<manacost>6</manacost>
+			<cmc>6</cmc>
+			<type>Evo</type> 
+			<pt>1200/12</pt>
+			<tablerow>1</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>Ventus Hyper Howlkor</name>
+			<set picURL="">AV</set>
+			<color>Ventus</color>
+			<manacost>3</manacost>
+			<cmc>3</cmc>
+			<type>Evo</type> 
+			<pt>800/8</pt>
+			<tablerow>1</tablerow>
+			<text>When another player plays a Flip card, you may play this for free.</text>
+		</card>
+		<card>
+			<name>Ventus Hyper Pharol</name>
+			<set picURL="">AV</set>
+			<color>Ventus</color>
+			<manacost>4</manacost>
+			<cmc>4</cmc>
+			<type>Evo</type> 
+			<pt>1100/5</pt>
+			<tablerow>1</tablerow>
+			<text>[Boost] If you have seven or more Energy cards in play, this has +5[DamageRating] and [ShadowStrike].</text>
+		</card>
+		<card>
+			<name>Ventus Hyper Trox (AV)</name>
+			<set picURL="">AV</set>
+			<color>Ventus</color>
+			<manacost>3</manacost>
+			<cmc>3</cmc>
+			<type>Evo</type> 
+			<pt>800/5</pt>
+			<tablerow>1</tablerow>
+			<text>[Trifecta] If your Bakugan have three or more BakuCores attached to them, +400[B-Power].</text>
+		</card>
+		<card>
+			<name>Ventus Maximus Dragonoid (AV)</name>
+			<set picURL="">AV</set>
+			<color>Ventus</color>
+			<manacost>5</manacost>
+			<cmc>5</cmc>
+			<type>Evo</type> 
+			<pt>1200/7</pt>
+			<tablerow>1</tablerow>
+			<text>[Trifecta] If your Bakugan have three or more BakuCores attached to them, you can play this for free.</text>
+		</card>
+		<card>
+			<name>Ventus Maximus Pegatrix (AV)</name>
+			<set picURL="">AV</set>
+			<color>Ventus</color>
+			<manacost>8</manacost>
+			<cmc>8</cmc>
+			<type>Evo</type> 
+			<pt>1500/10</pt>
+			<tablerow>1</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>Ventus Titan Howlkor Ultra (AV)</name>
+			<set picURL="">AV</set>
+			<color>Ventus</color>
+			<manacost>6</manacost>
+			<cmc>6</cmc>
+			<type>Evo</type> 
+			<pt>1000/7</pt>
+			<tablerow>1</tablerow>
+			<text>When you play this, destroy a Baku-Gear.</text>
+		</card>
+		<card>
+			<name>Aquos Centipod</name>
+			<set picURL="">AV</set>
+			<color>Aquos</color>
+			<manacost>0</manacost>
+			<cmc>0</cmc>
+			<type>Character</type> 
+			<pt>600/3</pt>
+			<loyalty>MagicShield/Shield</loyalty>
+			<tablerow>2</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>Aquos Dragonoid (AV)</name>
+			<set picURL="">AV</set>
+			<color>Aquos</color>
+			<manacost>0</manacost>
+			<cmc>0</cmc>
+			<type>Character</type> 
+			<pt>550/2</pt>
+			<loyalty>FlamingFist/Helix</loyalty>
+			<tablerow>2</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>Aquos Dragonoid Ultra (AV)</name>
+			<set picURL="">AV</set>
+			<color>Aquos</color>
+			<manacost>0</manacost>
+			<cmc>0</cmc>
+			<type>Character</type> 
+			<pt>600/3</pt>
+			<loyalty>MagicShield/FlamingFist</loyalty>
+			<tablerow>2</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>Aquos Howlkor</name>
+			<set picURL="">AV</set>
+			<color>Aquos</color>
+			<manacost>0</manacost>
+			<cmc>0</cmc>
+			<type>Character</type> 
+			<pt>400/4</pt>
+			<loyalty>Shield/Helix</loyalty>
+			<tablerow>2</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>Aquos Howlkor Ultra (AV)</name>
+			<set picURL="">AV</set>
+			<color>Aquos</color>
+			<manacost>0</manacost>
+			<cmc>0</cmc>
+			<type>Character</type> 
+			<pt>700/1</pt>
+			<loyalty>Fist/Shield</loyalty>
+			<tablerow>2</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>Aquos Hydorous (AV)</name>
+			<set picURL="">AV</set>
+			<color>Aquos</color>
+			<manacost>0</manacost>
+			<cmc>0</cmc>
+			<type>Character</type> 
+			<pt>400/4</pt>
+			<loyalty>Helix/Fist</loyalty>
+			<tablerow>2</tablerow>
+			<text>[Helix] +500[B-Power] and +5[DamageRating]</text>
+		</card>
+		<card>
+			<name>Aquos Hydorous Ultra (AV)</name>
+			<set picURL="">AV</set>
+			<color>Aquos</color>
+			<manacost>0</manacost>
+			<cmc>0</cmc>
+			<type>Character</type> 
+			<pt>600/5</pt>
+			<loyalty>FlamingFist/Shield</loyalty>
+			<tablerow>2</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>Aquos Nillious (AV)</name>
+			<set picURL="">AV</set>
+			<color>Aquos</color>
+			<manacost>0</manacost>
+			<cmc>0</cmc>
+			<type>Character</type> 
+			<pt>600/1</pt>
+			<loyalty>FlamingFist/Helix</loyalty>
+			<tablerow>2</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>Aquos Nillious Ultra (AV)</name>
+			<set picURL="">AV</set>
+			<color>Aquos</color>
+			<manacost>0</manacost>
+			<cmc>0</cmc>
+			<type>Character</type> 
+			<pt>500/3</pt>
+			<loyalty>MagicShield/Fist</loyalty>
+			<tablerow>2</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>Aquos Pegatrix (AV)</name>
+			<set picURL="">AV</set>
+			<color>Aquos</color>
+			<manacost>0</manacost>
+			<cmc>0</cmc>
+			<type>Character</type> 
+			<pt>400/5</pt>
+			<loyalty>Fist/Fist</loyalty>
+			<tablerow>2</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>Aquos Ramparian Ultra</name>
+			<set picURL="">AV</set>
+			<color>Aquos</color>
+			<manacost>0</manacost>
+			<cmc>0</cmc>
+			<type>Character</type> 
+			<pt>600/5</pt>
+			<loyalty>Fist/Shield</loyalty>
+			<tablerow>2</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>Aquos Trox (AV)</name>
+			<set picURL="">AV</set>
+			<color>Aquos</color>
+			<manacost>0</manacost>
+			<cmc>0</cmc>
+			<type>Character</type> 
+			<pt>300/5</pt>
+			<loyalty>Helix/Helix</loyalty>
+			<tablerow>2</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>Aquos Trox Ultra (AV)</name>
+			<set picURL="">AV</set>
+			<color>Aquos</color>
+			<manacost>0</manacost>
+			<cmc>0</cmc>
+			<type>Character</type> 
+			<pt>500/5</pt>
+			<loyalty>Shield/Fist</loyalty>
+			<tablerow>2</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>Aurelus Auxillataur</name>
+			<set picURL="">AV</set>
+			<color>Aurelus</color>
+			<manacost>0</manacost>
+			<cmc>0</cmc>
+			<type>Character</type> 
+			<pt>300/6</pt>
+			<loyalty>Shield/Shield</loyalty>
+			<tablerow>2</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>Aurelus Dragonoid Ultra (AV)</name>
+			<set picURL="">AV</set>
+			<color>Aurelus</color>
+			<manacost>0</manacost>
+			<cmc>0</cmc>
+			<type>Character</type> 
+			<pt>500/1</pt>
+			<loyalty>Fist/Helix</loyalty>
+			<tablerow>2</tablerow>
+			<text>[Helix] +6[DamageRating]</text>
+		</card>
+		<card>
+			<name>Aurelus Howlkor</name>
+			<set picURL="">AV</set>
+			<color>Aurelus</color>
+			<manacost>0</manacost>
+			<cmc>0</cmc>
+			<type>Character</type> 
+			<pt>400/1</pt>
+			<loyalty>MagicShield/Shield</loyalty>
+			<tablerow>2</tablerow>
+			<text>[Shield] +400[B-Power]
+[MagicShield] +4[DamageRating]</text>
+		</card>
+		<card>
+			<name>Aurelus Hydorous (AV)</name>
+			<set picURL="">AV</set>
+			<color>Aurelus</color>
+			<manacost>0</manacost>
+			<cmc>0</cmc>
+			<type>Character</type> 
+			<pt>800/2</pt>
+			<loyalty>Shield/FlamingFist</loyalty>
+			<tablerow>2</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>Aurelus Nillious (AV)</name>
+			<set picURL="">AV</set>
+			<color>Aurelus</color>
+			<manacost>0</manacost>
+			<cmc>0</cmc>
+			<type>Character</type> 
+			<pt>600/5</pt>
+			<loyalty>Fist/Fist</loyalty>
+			<tablerow>2</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>Aurelus Nillious Ultra (AV)</name>
+			<set picURL="">AV</set>
+			<color>Aurelus</color>
+			<manacost>0</manacost>
+			<cmc>0</cmc>
+			<type>Character</type> 
+			<pt>600/1</pt>
+			<loyalty>Fist/MagicShield</loyalty>
+			<tablerow>2</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>Aurelus Pharol</name>
+			<set picURL="">AV</set>
+			<color>Aurelus</color>
+			<manacost>0</manacost>
+			<cmc>0</cmc>
+			<type>Character</type> 
+			<pt>500/5</pt>
+			<loyalty>Shield/Shield</loyalty>
+			<tablerow>2</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>Darkus Dragonoid Ultra (AV)</name>
+			<set picURL="">AV</set>
+			<color>Darkus</color>
+			<manacost>0</manacost>
+			<cmc>0</cmc>
+			<type>Character</type> 
+			<pt>500/3</pt>
+			<loyalty>Shield/FlamingFist</loyalty>
+			<tablerow>2</tablerow>
+			<text>[FlamingFist] +200[B-Power] and +4[DamageRating]</text>
+		</card>
+		<card>
+			<name>Darkus Eenoch Ultra</name>
+			<set picURL="">AV</set>
+			<color>Darkus</color>
+			<manacost>0</manacost>
+			<cmc>0</cmc>
+			<type>Character</type> 
+			<pt>700/4</pt>
+			<loyalty>MagicShield/Fist</loyalty>
+			<tablerow>2</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>Darkus Howlkor</name>
+			<set picURL="">AV</set>
+			<color>Darkus</color>
+			<manacost>0</manacost>
+			<cmc>0</cmc>
+			<type>Character</type> 
+			<pt>200/7</pt>
+			<loyalty>FlamingFist/Shield</loyalty>
+			<tablerow>2</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>Darkus Howlkor Ultra (AV)</name>
+			<set picURL="">AV</set>
+			<color>Darkus</color>
+			<manacost>0</manacost>
+			<cmc>0</cmc>
+			<type>Character</type> 
+			<pt>400/5</pt>
+			<loyalty>MagicShield/FlamingFist</loyalty>
+			<tablerow>2</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>Darkus Hydorous (AV)</name>
+			<set picURL="">AV</set>
+			<color>Darkus</color>
+			<manacost>0</manacost>
+			<cmc>0</cmc>
+			<type>Character</type> 
+			<pt>400/5</pt>
+			<loyalty>Shield/Fist</loyalty>
+			<tablerow>2</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>Darkus Hydorous Ultra (AV)</name>
+			<set picURL="">AV</set>
+			<color>Darkus</color>
+			<manacost>0</manacost>
+			<cmc>0</cmc>
+			<type>Character</type> 
+			<pt>600/4</pt>
+			<loyalty>Fist/Shield</loyalty>
+			<tablerow>2</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>Darkus Nillious (AV)</name>
+			<set picURL="">AV</set>
+			<color>Darkus</color>
+			<manacost>0</manacost>
+			<cmc>0</cmc>
+			<type>Character</type> 
+			<pt>400/5</pt>
+			<loyalty>Shield/FlamingFist</loyalty>
+			<tablerow>2</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>Darkus Nillious Ultra (AV)</name>
+			<set picURL="">AV</set>
+			<color>Darkus</color>
+			<manacost>0</manacost>
+			<cmc>0</cmc>
+			<type>Character</type> 
+			<pt>600/3</pt>
+			<loyalty>Shield/Fist</loyalty>
+			<tablerow>2</tablerow>
+			<text>[Shield] +200[B-Power]
+
+[Fist] +2[DamageRating]</text>
+		</card>
+		<card>
+			<name>Darkus Pegatrix (AV)</name>
+			<set picURL="">AV</set>
+			<color>Darkus</color>
+			<manacost>0</manacost>
+			<cmc>0</cmc>
+			<type>Character</type> 
+			<pt>300/4</pt>
+			<loyalty></loyalty>
+			<tablerow>2</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>Darkus Pharol</name>
+			<set picURL="">AV</set>
+			<color>Darkus</color>
+			<manacost>0</manacost>
+			<cmc>0</cmc>
+			<type>Character</type> 
+			<pt>600/5</pt>
+			<loyalty>Helix/Fist</loyalty>
+			<tablerow>2</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>Darkus Tretorous Ultra</name>
+			<set picURL="">AV</set>
+			<color>Darkus</color>
+			<manacost>0</manacost>
+			<cmc>0</cmc>
+			<type>Character</type> 
+			<pt>600/3</pt>
+			<loyalty>Fist/Fist</loyalty>
+			<tablerow>2</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>Darkus Trox (AV)</name>
+			<set picURL="">AV</set>
+			<color>Darkus</color>
+			<manacost>0</manacost>
+			<cmc>0</cmc>
+			<type>Character</type> 
+			<pt>700/3</pt>
+			<loyalty>Fist/Fist</loyalty>
+			<tablerow>2</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>Darkus Trox Ultra (AV)</name>
+			<set picURL="">AV</set>
+			<color>Darkus</color>
+			<manacost>0</manacost>
+			<cmc>0</cmc>
+			<type>Character</type> 
+			<pt>700/2</pt>
+			<loyalty>Shield/Fist</loyalty>
+			<tablerow>2</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>Haos Sairus Ultra</name>
+			<set picURL="">AV</set>
+			<color>Haos</color>
+			<manacost>0</manacost>
+			<cmc>0</cmc>
+			<type>Character</type> 
+			<pt>700/1</pt>
+			<loyalty>Fist/Shield</loyalty>
+			<tablerow>2</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>Haos Dragonoid (AV)</name>
+			<set picURL="">AV</set>
+			<color>Haos</color>
+			<manacost>0</manacost>
+			<cmc>0</cmc>
+			<type>Character</type> 
+			<pt>300/7</pt>
+			<loyalty>Fist/Helix</loyalty>
+			<tablerow>2</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>Haos Howlkor</name>
+			<set picURL="">AV</set>
+			<color>Haos</color>
+			<manacost>0</manacost>
+			<cmc>0</cmc>
+			<type>Character</type> 
+			<pt>300/5</pt>
+			<loyalty>FlamingFist/FlamingFist</loyalty>
+			<tablerow>2</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>Haos Hydorous (AV)</name>
+			<set picURL="">AV</set>
+			<color>Haos</color>
+			<manacost>0</manacost>
+			<cmc>0</cmc>
+			<type>Character</type> 
+			<pt>300/6</pt>
+			<loyalty>FlamingFist/Fist</loyalty>
+			<tablerow>2</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>Haos Hydorous Ultra (AV)</name>
+			<set picURL="">AV</set>
+			<color>Haos</color>
+			<manacost>0</manacost>
+			<cmc>0</cmc>
+			<type>Character</type> 
+			<pt>500/6</pt>
+			<loyalty>Fist/Shield</loyalty>
+			<tablerow>2</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>Haos Nillious (AV)</name>
+			<set picURL="">AV</set>
+			<color>Haos</color>
+			<manacost>0</manacost>
+			<cmc>0</cmc>
+			<type>Character</type> 
+			<pt>600/1</pt>
+			<loyalty>FlamingFist/Fist</loyalty>
+			<tablerow>2</tablerow>
+			<text>[FlamingFist] +5[DamageRating]</text>
+		</card>
+		<card>
+			<name>Haos Pegatrix (AV)</name>
+			<set picURL="">AV</set>
+			<color>Haos</color>
+			<manacost>0</manacost>
+			<cmc>0</cmc>
+			<type>Character</type> 
+			<pt>400/5</pt>
+			<loyalty>MagicShield/FlamingFist</loyalty>
+			<tablerow>2</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>Haos Pegatrix Ultra (AV)</name>
+			<set picURL="">AV</set>
+			<color>Haos</color>
+			<manacost>0</manacost>
+			<cmc>0</cmc>
+			<type>Character</type> 
+			<pt>500/1</pt>
+			<loyalty>Shield/Shield</loyalty>
+			<tablerow>2</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>Haos Pharol</name>
+			<set picURL="">AV</set>
+			<color>Haos</color>
+			<manacost>0</manacost>
+			<cmc>0</cmc>
+			<type>Character</type> 
+			<pt>400/3</pt>
+			<loyalty>Shield/MagicShield</loyalty>
+			<tablerow>2</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>Haos Trox (AV)</name>
+			<set picURL="">AV</set>
+			<color>Haos</color>
+			<manacost>0</manacost>
+			<cmc>0</cmc>
+			<type>Character</type> 
+			<pt>300/7</pt>
+			<loyalty>Shield/Shield</loyalty>
+			<tablerow>2</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>Haos Trox Ultra (AV)</name>
+			<set picURL="">AV</set>
+			<color>Haos</color>
+			<manacost>0</manacost>
+			<cmc>0</cmc>
+			<type>Character</type> 
+			<pt>800/2</pt>
+			<loyalty>MagicShield/Fist</loyalty>
+			<tablerow>2</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>Pyrus Dragonoid (AV)</name>
+			<set picURL="">AV</set>
+			<color>Pyrus</color>
+			<manacost>0</manacost>
+			<cmc>0</cmc>
+			<type>Character</type> 
+			<pt>400/4</pt>
+			<loyalty>Fist/Fist</loyalty>
+			<tablerow>2</tablerow>
+			<text>[Fist] +6[DamageRating]</text>
+		</card>
+		<card>
+			<name>Pyrus Dragonoid Ultra (AV)</name>
+			<set picURL="">AV</set>
+			<color>Pyrus</color>
+			<manacost>0</manacost>
+			<cmc>0</cmc>
+			<type>Character</type> 
+			<pt>900/2</pt>
+			<loyalty>FlamingFist/Shield</loyalty>
+			<tablerow>2</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>Pyrus Cycloid</name>
+			<set picURL="">AV</set>
+			<color>Pyrus</color>
+			<manacost>0</manacost>
+			<cmc>0</cmc>
+			<type>Character</type> 
+			<pt>300/7</pt>
+			<loyalty>Shield/Shield</loyalty>
+			<tablerow>2</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>Pyrus Gillator Ultra</name>
+			<set picURL="">AV</set>
+			<color>Pyrus</color>
+			<manacost>0</manacost>
+			<cmc>0</cmc>
+			<type>Character</type> 
+			<pt>400/6</pt>
+			<loyalty>Helix/Shield</loyalty>
+			<tablerow>2</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>Pyrus Howlkor Ultra (AV)</name>
+			<set picURL="">AV</set>
+			<color>Pyrus</color>
+			<manacost>0</manacost>
+			<cmc>0</cmc>
+			<type>Character</type> 
+			<pt>500/5</pt>
+			<loyalty>Fist/Fist</loyalty>
+			<tablerow>2</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>Pyrus Hydorous Ultra (AV)</name>
+			<set picURL="">AV</set>
+			<color>Pyrus</color>
+			<manacost>0</manacost>
+			<cmc>0</cmc>
+			<type>Character</type> 
+			<pt>500/3</pt>
+			<loyalty>MagicShield/Helix</loyalty>
+			<tablerow>2</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>Pyrus Nillious (AV)</name>
+			<set picURL="">AV</set>
+			<color>Pyrus</color>
+			<manacost>0</manacost>
+			<cmc>0</cmc>
+			<type>Character</type> 
+			<pt>600/1</pt>
+			<loyalty>FlamingFist/FlamingFist</loyalty>
+			<tablerow>2</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>Pyrus Nillious Ultra (AV)</name>
+			<set picURL="">AV</set>
+			<color>Pyrus</color>
+			<manacost>0</manacost>
+			<cmc>0</cmc>
+			<type>Character</type> 
+			<pt>500/3</pt>
+			<loyalty>FlamingFist/Helix</loyalty>
+			<tablerow>2</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>Pyrus Pegatrix (AV)</name>
+			<set picURL="">AV</set>
+			<color>Pyrus</color>
+			<manacost>0</manacost>
+			<cmc>0</cmc>
+			<type>Character</type> 
+			<pt>400/1</pt>
+			<loyalty>MagicShield/FlamingFist</loyalty>
+			<tablerow>2</tablerow>
+			<text>[DoubleStrike]</text>
+		</card>
+		<card>
+			<name>Pyrus Pegatrix Ultra (AV)</name>
+			<set picURL="">AV</set>
+			<color>Pyrus</color>
+			<manacost>0</manacost>
+			<cmc>0</cmc>
+			<type>Character</type> 
+			<pt>800/1</pt>
+			<loyalty>Fist/Shield</loyalty>
+			<tablerow>2</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>Pyrus Trox (AV)</name>
+			<set picURL="">AV</set>
+			<color>Pyrus</color>
+			<manacost>0</manacost>
+			<cmc>0</cmc>
+			<type>Character</type> 
+			<pt>100/10</pt>
+			<loyalty>Fist/Shield</loyalty>
+			<tablerow>2</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>Ventus Dragonoid (AV)</name>
+			<set picURL="">AV</set>
+			<color>Ventus</color>
+			<manacost>0</manacost>
+			<cmc>0</cmc>
+			<type>Character</type> 
+			<pt>600/2</pt>
+			<loyalty>MagicShield/Helix</loyalty>
+			<tablerow>2</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>Ventus Dragonoid Ultra (AV)</name>
+			<set picURL="">AV</set>
+			<color>Ventus</color>
+			<manacost>0</manacost>
+			<cmc>0</cmc>
+			<type>Character</type> 
+			<pt>600/5</pt>
+			<loyalty>Shield/Shield</loyalty>
+			<tablerow>2</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>Ventus Howlkor</name>
+			<set picURL="">AV</set>
+			<color>Ventus</color>
+			<manacost>0</manacost>
+			<cmc>0</cmc>
+			<type>Character</type> 
+			<pt>300/7</pt>
+			<loyalty>Fist/Shield</loyalty>
+			<tablerow>2</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>Ventus Howlkor Ultra (AV)</name>
+			<set picURL="">AV</set>
+			<color>Ventus</color>
+			<manacost>0</manacost>
+			<cmc>0</cmc>
+			<type>Character</type> 
+			<pt>600/4</pt>
+			<loyalty>Fist/Fist</loyalty>
+			<tablerow>2</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>Ventus Cycloid</name>
+			<set picURL="">AV</set>
+			<color>Ventus</color>
+			<manacost>0</manacost>
+			<cmc>0</cmc>
+			<type>Character</type> 
+			<pt>600/2</pt>
+			<loyalty>FlamingFist/Shield</loyalty>
+			<tablerow>2</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>Ventus Nillious (AV)</name>
+			<set picURL="">AV</set>
+			<color>Ventus</color>
+			<manacost>0</manacost>
+			<cmc>0</cmc>
+			<type>Character</type> 
+			<pt>400/5</pt>
+			<loyalty>Fist/Shield</loyalty>
+			<tablerow>2</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>Ventus Gillator Ultra</name>
+			<set picURL="">AV</set>
+			<color>Ventus</color>
+			<manacost>0</manacost>
+			<cmc>0</cmc>
+			<type>Character</type> 
+			<pt>400/6</pt>
+			<loyalty>MagicShield/Shield</loyalty>
+			<tablerow>2</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>Ventus Pharol</name>
+			<set picURL="">AV</set>
+			<color>Ventus</color>
+			<manacost>0</manacost>
+			<cmc>0</cmc>
+			<type>Character</type> 
+			<pt>500/5</pt>
+			<loyalty>Helix/Fist</loyalty>
+			<tablerow>2</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>Ventus Pegatrix (AV)</name>
+			<set picURL="">AV</set>
+			<color>Ventus</color>
+			<manacost>0</manacost>
+			<cmc>0</cmc>
+			<type>Character</type> 
+			<pt>600/2</pt>
+			<loyalty>Fist/Fist</loyalty>
+			<tablerow>2</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>Ventus Trox (AV)</name>
+			<set picURL="">AV</set>
+			<color>Ventus</color>
+			<manacost>0</manacost>
+			<cmc>0</cmc>
+			<type>Character</type> 
+			<pt>500/3</pt>
+			<loyalty>MagicShield/Fist</loyalty>
+			<tablerow>2</tablerow>
+			<text></text>
+		</card>
+		<card>
+			<name>Ventus Trox Ultra (AV)</name>
+			<set picURL="">AV</set>
+			<color>Ventus</color>
+			<manacost>0</manacost>
+			<cmc>0</cmc>
+			<type>Character</type> 
+			<pt>500/5</pt>
+			<loyalty>FlamingFist/FlamingFist</loyalty>
+			<tablerow>2</tablerow>
+			<text></text>
 		</card>
 	</cards>
 </cockatrice_carddatabase>
