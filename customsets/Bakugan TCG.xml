@@ -37,6 +37,12 @@
 			<settype>Core</settype>
 			<releasedate>2020-01-15</releasedate>
 		</set>
+		<set>
+			<name>FF</name>
+			<longname>Fusion Force</longname>
+			<settype>Core</settype>
+			<releasedate />
+		</set>
 	</sets>
 	<cards>
 		<!-- BB -->
@@ -6069,7 +6075,7 @@ You may Reroll this once each turn if you miss a roll with it.</text>
 			<text></text>
 		</card>
 		<card>
-			<name>Diamond Gothion</name>
+			<name>Diamond Gorthion</name>
 			<set picURL="https://bakugan.wiki/images/8/8d/Gorthion_(Diamond_Card)_ENG_122_RA_BR.png">BR</set>
 			<color>Haos</color>
 			<manacost>5</manacost>
@@ -6157,7 +6163,7 @@ You may Reroll this once each turn if you miss a roll with it.</text>
 			<text>When you play this, you may play a Hero for free.</text>
 		</card>
 		<card>
-			<name>Haos Titan Gothion Ultra</name>
+			<name>Haos Titan Gorthion Ultra</name>
 			<set picURL="https://bakugan.wiki/images/a/ac/Titan_Gorthion_Ultra_(Haos_Card)_ENG_130_BE_BR.png">BR</set>
 			<color>Haos</color>
 			<manacost>6</manacost>
@@ -13238,6 +13244,254 @@ At the end of the turn, if you played this for free this turn, return this to yo
 			<loyalty>FlamingFist/FlamingFist</loyalty>
 			<tablerow>2</tablerow>
 			<text></text>
+		</card>
+		<!-- FF -->
+		<card>
+   			<name>Aquofreeze Beam</name>
+   			<set picURL="">FF</set>
+			<color>Aquos</color>
+			<manacost>1</manacost>
+			<cmc>1</cmc>
+			<type>Action</type>
+			<tablerow>2</tablerow>
+			<text>+200[B-Power]
+
+[Sync] You may reveal a card in your hand that costs 5[Energy] or more for +500[B-Power] instead.</text>
+		</card>
+		<card>
+   			<name>Aquosoldier</name>
+   			<set picURL="">FF</set>
+			<color>Aquos</color>
+			<manacost>4</manacost>
+			<cmc>4</cmc>
+			<type>Action</type>
+			<tablerow>2</tablerow>
+			<text>+6[DamageRating] and [Draw] 2</text>
+		</card>
+		<card>
+   			<name>Falling Strike</name>
+   			<set picURL="">FF</set>
+			<color>Darkus</color>
+			<manacost>0</manacost>
+			<cmc>0</cmc>
+			<type>Action</type>
+			<tablerow>2</tablerow>
+			<text>+100[B-Power]
+			
+[Sync] You may reveal a card in your hand that costs 5[Energy] or more for +5[DamageRating].</text>
+		</card>
+		<card>
+   			<name>Darkuslayer</name>
+   			<set picURL="">FF</set>
+			<color>Darkus</color>
+			<manacost>1</manacost>
+			<cmc>1</cmc>
+			<type>Action</type>
+			<tablerow>2</tablerow>
+			<text>+200[B-Power] and +2[DamageRating]</text>
+    			<token></token>
+			<cipt></cipt>
+		</card>
+		<card>
+   			<name>Bakusweep Strike</name>
+   			<set picURL="">FF</set>
+			<color>Darkus</color>
+			<manacost>3</manacost>
+			<cmc>3</cmc>
+			<type>Action</type>
+			<tablerow>2</tablerow>
+			<text>[Rapid Fire] The second Rapid Fire card you play this turn is free.
+			
+Choose a player to discard a card.</text>
+		</card>
+		<card>
+   			<name>Cubboclones</name>
+   			<set picURL="">FF</set>
+			<color>Haos</color>
+			<manacost>1</manacost>
+			<cmc>1</cmc>
+			<type>Action</type>
+			<tablerow>2</tablerow>
+			<text>+2[DamageRating]
+	
+You may Reroll your Bakugan.</text>
+		</card>
+		<card>
+   			<name>Summon BakuGear</name>
+   			<set picURL="">FF</set>
+			<color>Haos</color>
+			<manacost>7</manacost>
+			<cmc>7</cmc>
+			<type>Action</type>
+			<tablerow>2</tablerow>
+			<text>For the rest of this turn, you may play BakuGear cards for free.</text>
+		</card>
+		<card>
+   			<name>Pyrus Flash Fire</name>
+   			<set picURL="">FF</set>
+			<color>Pyrus</color>
+			<manacost>4</manacost>
+			<cmc>4</cmc>
+			<type>Action</type>
+			<tablerow>2</tablerow>
+			<text>[Rapid Fire] The second Rapid Fire card you play this turn is free.
+			
+Remove all Enemy BakuCores and negate their effects.</text>
+		</card>
+		<card>
+   			<name>Pyrus Magma Fist</name>
+   			<set picURL="">FF</set>
+			<color>Pyrus</color>
+			<manacost>4</manacost>
+			<cmc>4</cmc>
+			<type>Action</type>
+			<tablerow>2</tablerow>
+			<text>+2[DamageRating]
+	
+Destroy an Energy card.</text>
+		</card>
+		<card>
+   			<name>VentuPiercer</name>
+   			<set picURL="">FF</set>
+			<color>Ventus</color>
+			<manacost>3</manacost>
+			<cmc>3</cmc>
+			<type>Action</type>
+			<tablerow>2</tablerow>
+			<text>+6[DamageRating]</text>
+		</card>
+		<card>
+   			<name>Pyrufield</name>
+   			<set picURL="">FF</set>
+			<color>Pyrus/Darkus</color>
+			<manacost>5</manacost>
+			<cmc>5</cmc>
+			<type>Action</type>
+			<tablerow>2</tablerow>
+			<text>+5[DamageRating], +[DoubleStrike] and +[ShadowStrike]</text>
+		</card>
+		<card>
+   			<name>Shadow Bash</name>
+   			<set picURL="">FF</set>
+			<color>Pyrus/Darkus</color>
+			<manacost>6</manacost>
+			<cmc>6</cmc>
+			<type>Action</type>
+			<tablerow>2</tablerow>
+			<text>Choose a player to discard two cards.
+			
+Make a [Darkus]/[Pyrus] attack for 2[DamageRating].</text>
+		</card>
+		<card>
+   			<name>Pyrus Cutter</name>
+   			<set picURL="">FF</set>
+			<color>Haos/Pyrus</color>
+			<manacost>2</manacost>
+			<cmc>2</cmc>
+			<type>Action</type>
+			<tablerow>2</tablerow>
+			<text>+5[DamageRating]
+			
+Shuffle your hand into your deck and draw that many cards.</text>
+		</card>
+		<card>
+   			<name>Moxified Cubbobeam</name>
+   			<set picURL="">FF</set>
+			<color>Ventus/Haos</color>
+			<manacost>1</manacost>
+			<cmc>1</cmc>
+			<type>Action</type>
+			<tablerow>2</tablerow>
+			<text>-500[B-Power]</text>
+		</card>
+		<card>
+   			<name></name>
+   			<set picURL=""></set>
+			<related></related>
+			<color></color>
+			<manacost></manacost>
+			<cmc></cmc>
+			<type></type>
+			<pt></pt>
+			<loyalty></loyalty>
+			<tablerow></tablerow>
+			<text></text>
+    			<token></token>
+			<cipt></cipt>
+		</card>
+		<card>
+   			<name></name>
+   			<set picURL=""></set>
+			<related></related>
+			<color></color>
+			<manacost></manacost>
+			<cmc></cmc>
+			<type></type>
+			<pt></pt>
+			<loyalty></loyalty>
+			<tablerow></tablerow>
+			<text></text>
+    			<token></token>
+			<cipt></cipt>
+		</card>
+		<card>
+   			<name></name>
+   			<set picURL=""></set>
+			<related></related>
+			<color></color>
+			<manacost></manacost>
+			<cmc></cmc>
+			<type></type>
+			<pt></pt>
+			<loyalty></loyalty>
+			<tablerow></tablerow>
+			<text></text>
+    			<token></token>
+			<cipt></cipt>
+		</card>
+		<card>
+   			<name></name>
+   			<set picURL=""></set>
+			<related></related>
+			<color></color>
+			<manacost></manacost>
+			<cmc></cmc>
+			<type></type>
+			<pt></pt>
+			<loyalty></loyalty>
+			<tablerow></tablerow>
+			<text></text>
+    			<token></token>
+			<cipt></cipt>
+		</card>		<card>
+   			<name></name>
+   			<set picURL=""></set>
+			<related></related>
+			<color></color>
+			<manacost></manacost>
+			<cmc></cmc>
+			<type></type>
+			<pt></pt>
+			<loyalty></loyalty>
+			<tablerow></tablerow>
+			<text></text>
+    			<token></token>
+			<cipt></cipt>
+		</card>
+		<card>
+   			<name></name>
+   			<set picURL=""></set>
+			<related></related>
+			<color></color>
+			<manacost></manacost>
+			<cmc></cmc>
+			<type></type>
+			<pt></pt>
+			<loyalty></loyalty>
+			<tablerow></tablerow>
+			<text></text>
+    			<token></token>
+			<cipt></cipt>
 		</card>
 	</cards>
 </cockatrice_carddatabase>
