@@ -12350,7 +12350,7 @@ At the end of the turn, if you played this for free this turn, return this to yo
 			<manacost>0</manacost>
 			<cmc>0</cmc>
 			<type>Character</type> 
-			<pt>600/14/pt>
+			<pt>600/4</pt>
 			<loyalty>Shield/Helix</loyalty>
 			<tablerow>2</tablerow>
 			<text></text>
@@ -13549,7 +13549,7 @@ When you play this, [Draw] 1, then you may Energize a card from your hand.</text
    			<name>Diamond Trox (FF145)</name>
    			<set picURL="">FF</set>
 			<color>Ventus</color>
-			<manacost><5/manacost>
+			<manacost>5</manacost>
 			<cmc>5</cmc>
 			<type>Evo</type>
 			<pt>1100/11</pt>
@@ -13567,7 +13567,7 @@ When you play this, [Draw] 1, then you may Energize a card from your hand.</text
 			<pt>800/1</pt>
 			<loyalty>FlamingFist/FlamingFist</loyalty>
 			<tablerow>2</tablerow>
-			<text>8[Energy]<Fusion></text>
+			<text>8[Energy][Fusion]</text>
 		</card>
 		<card>
    			<name>Dragonoid and Auxillataur Ultra (FF190b)</name>
