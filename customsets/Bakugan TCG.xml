@@ -13405,93 +13405,206 @@ Shuffle your hand into your deck and draw that many cards.</text>
 			<text>-500[B-Power]</text>
 		</card>
 		<card>
-   			<name></name>
-   			<set picURL=""></set>
-			<related></related>
-			<color></color>
-			<manacost></manacost>
-			<cmc></cmc>
-			<type></type>
-			<pt></pt>
-			<loyalty></loyalty>
-			<tablerow></tablerow>
-			<text></text>
-    			<token></token>
-			<cipt></cipt>
+   			<name>Bakugan's New Trick</name>
+   			<set picURL="">FF</set>
+			<color>Aquos</color>
+			<manacost>5</manacost>
+			<cmc>5</cmc>
+			<type>Flip</type>
+			<tablerow>2</tablerow>
+			<text>[Draw] 3</text>
 		</card>
 		<card>
-   			<name></name>
-   			<set picURL=""></set>
-			<related></related>
-			<color></color>
-			<manacost></manacost>
-			<cmc></cmc>
-			<type></type>
-			<pt></pt>
-			<loyalty></loyalty>
-			<tablerow></tablerow>
-			<text></text>
-    			<token></token>
-			<cipt></cipt>
+   			<name>Block and Bite</name>
+   			<set picURL="">FF</set>
+			<color>Darkus</color>
+			<manacost>1</manacost>
+			<cmc>1</cmc>
+			<type>Flip</type>
+			<tablerow>2</tablerow>
+			<text>The next flip card you play this turn is free.</text>
 		</card>
 		<card>
-   			<name></name>
-   			<set picURL=""></set>
-			<related></related>
-			<color></color>
-			<manacost></manacost>
-			<cmc></cmc>
-			<type></type>
-			<pt></pt>
-			<loyalty></loyalty>
-			<tablerow></tablerow>
-			<text></text>
-    			<token></token>
-			<cipt></cipt>
+   			<name>Battle Hardened</name>
+   			<set picURL="">FF</set>
+			<color>Pyrus</color>
+			<manacost>3</manacost>
+			<cmc>3</cmc>
+			<type>Flip</type>
+			<tablerow>2</tablerow>
+			<text>If you have flipped three or more cards this attack, [Stop] non-[Pyrus] and +5[Energy].</text>
 		</card>
 		<card>
-   			<name></name>
-   			<set picURL=""></set>
-			<related></related>
-			<color></color>
-			<manacost></manacost>
-			<cmc></cmc>
-			<type></type>
-			<pt></pt>
-			<loyalty></loyalty>
-			<tablerow></tablerow>
-			<text></text>
-    			<token></token>
-			<cipt></cipt>
-		</card>		<card>
-   			<name></name>
-   			<set picURL=""></set>
-			<related></related>
-			<color></color>
-			<manacost></manacost>
-			<cmc></cmc>
-			<type></type>
-			<pt></pt>
-			<loyalty></loyalty>
-			<tablerow></tablerow>
-			<text></text>
-    			<token></token>
-			<cipt></cipt>
+   			<name>Darkusfire Dodge</name>
+   			<set picURL="">FF</set>
+			<color>Pyrus/Darkus</color>
+			<manacost>0</manacost>
+			<cmc>0</cmc>
+			<type>Flip</type>
+			<tablerow>2</tablerow>
+			<text>[Stop][Pyrus] or [Darkus]</text>
+		</card>	
+		<card>
+   			<name>Back-to-Back</name>
+   			<set picURL="">FF</set>
+			<color>Haos/Pyrus</color>
+			<manacost>0</manacost>
+			<cmc>0</cmc>
+			<type>Flip</type>
+			<tablerow>2</tablerow>
+			<text>[Stop][Haos] or [Pyrus]</text>
 		</card>
 		<card>
-   			<name></name>
-   			<set picURL=""></set>
-			<related></related>
-			<color></color>
-			<manacost></manacost>
-			<cmc></cmc>
-			<type></type>
-			<pt></pt>
-			<loyalty></loyalty>
-			<tablerow></tablerow>
+   			<name>McQ and Cycloid</name>
+   			<set picURL="">FF</set>
+			<color>Pyrus</color>
+			<manacost>1</manacost>
+			<cmc>1</cmc>
+			<type>Hero</type>
+			<tablerow>2</tablerow>
+			<text>When you play this, give a Bakugan +3[DamageRating].
+			
+After you team attack, you may return this to your hand.</text>
+		</card>
+		<card>
+   			<name>Aquoburst</name>
+   			<set picURL="">FF</set>
+			<color>Aquos</color>
+			<manacost>3</manacost>
+			<cmc>3</cmc>
+			<type>BakuGear</type>
+			<pt>+200/+2</pt>
+			<tablerow>2</tablerow>
+			<text>+2[FrostStrike]</text>
+		</card>
+		<card>
+   			<name>Darkusmashers</name>
+   			<set picURL="">FF</set>
+			<color>Darkus</color>
+			<manacost>2</manacost>
+			<cmc>2</cmc>
+			<type>BakuGear</type>
+			<pt>+200/0</pt>
+			<tablerow>2</tablerow>
+			<text>+[ShadowStrike]</text>
+		</card>
+		<card>
+   			<name>Haoslashers</name>
+   			<set picURL="">FF</set>
+			<color>Haos</color>
+			<manacost>4</manacost>
+			<cmc>4</cmc>
+			<type>BakuGear</type>
+			<pt>+400/0</pt>
+			<tablerow>2</tablerow>
+			<text>+1[FrostStrike]</text>
+		</card>
+		<card>
+   			<name>Pykus Energizer</name>
+   			<set picURL="">FF</set>
+			<color>Pyrus/Darkus</color>
+			<manacost>2</manacost>
+			<cmc>2</cmc>
+			<type>BakuGear</type>
+			<pt>+100/+1</pt>
+			<tablerow>2</tablerow>
+			<text>[Dual Wield] This card can be attached to a Character as a second Baku-Gear.</text>
+		</card>
+		<card>
+   			<name>Crystal Blaster</name>
+   			<set picURL="">FF</set>
+			<color>Haos/Pyrus</color>
+			<manacost>5</manacost>
+			<cmc>5</cmc>
+			<type>BakuGear</type>
+			<pt>+500/+5</pt>
+			<tablerow>2</tablerow>
+			<text>[Empower] When you play this, you may pay 3[Energy] to destroy all opposing Evo cards, Hero cards, and Baku-Gear.</text>
+		</card>
+		<card>
+   			<name>Terran Vitalizer</name>
+   			<set picURL="">FF</set>
+			<color>Aquos/Ventus</color>
+			<manacost>4</manacost>
+			<cmc>4</cmc>
+			<type>BakuGear</type>
+			<pt>+200/+2</pt>
+			<tablerow>2</tablerow>
+			<text>[Dual Wield] This card can be attached to a Character as a second Baku-Gear.
+			
+When you play this, [Draw] 1, then you may Energize a card from your hand.</text>
+		</card>
+		<card>
+   			<name>Titan Eenoch Ultra (FF127)</name>
+   			<set picURL="">FF</set>
+			<color>Aquos</color>
+			<manacost>4</manacost>
+			<cmc>4</cmc>
+			<type>Evo</type>
+			<pt>1200/5</pt>
+			<tablerow>2</tablerow>
+			<text>[Boost] If you have seven or more Energy cards in play, +5[DamageRating].</text>
+		</card>
+		<card>
+   			<name>Diamond Trox (FF145)</name>
+   			<set picURL="">FF</set>
+			<color>Ventus</color>
+			<manacost><5/manacost>
+			<cmc>5</cmc>
+			<type>Evo</type>
+			<pt>1100/11</pt>
+			<tablerow>2</tablerow>
 			<text></text>
-    			<token></token>
-			<cipt></cipt>
+		</card>
+		<card>
+   			<name>Dragonoid and Auxillataur Ultra (FF190a)</name>
+   			<set picURL="">FF</set>
+			<related>Dragonoid and Auxillataur Ultra (FF190b)</related>
+			<color>Pyrus</color>
+			<manacost>0</manacost>
+			<cmc>0</cmc>
+			<type>Fusion Character</type>
+			<pt>800/1</pt>
+			<loyalty>FlamingFist/FlamingFist</loyalty>
+			<tablerow>2</tablerow>
+			<text>8[Energy]<Fusion></text>
+		</card>
+		<card>
+   			<name>Dragonoid and Auxillataur Ultra (FF190b)</name>
+   			<set picURL="">FF</set>
+			<related>Dragonoid and Auxillataur Ultra (FF190a)</related>
+			<color>Pyrus/Aurelus</color>
+			<manacost>0</manacost>
+			<cmc>0</cmc>
+			<type>Fusion Character</type>
+			<pt>2000/5</pt>
+			<loyalty>FlamingFist/FlamingFist</loyalty>
+			<tablerow>2</tablerow>
+			<text></text>
+		</card>
+		<card>
+   			<name>Pegatrix Ultra (FF)</name>
+   			<set picURL="">FF</set>
+			<color>Haos</color>
+			<manacost>0</manacost>
+			<cmc>0</cmc>
+			<type>Epic Character</type>
+			<pt>500/1</pt>
+			<loyalty>Shield/Shield</loyalty>
+			<tablerow>2</tablerow>
+			<text>[Victor] Attach a BakuCore from the field to this.</text>
+		</card>
+		<card>
+   			<name>Pegatrix (FF239)</name>
+   			<set picURL="">FF</set>
+			<color>Ventus</color>
+			<manacost>0</manacost>
+			<cmc>0</cmc>
+			<type>Epic Character</type>
+			<pt>600/2</pt>
+			<loyalty>Fist/Fist</loyalty>
+			<tablerow>2</tablerow>
+			<text>At the start of the game, each player Energizes the top card of their deck uncharged.</text>
 		</card>
 	</cards>
 </cockatrice_carddatabase>
